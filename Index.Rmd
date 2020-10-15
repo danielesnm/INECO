@@ -248,7 +248,7 @@ background-size: 50%
 
 ## [2. Manual](https://github.com/danielesnm/INECO/blob/main/archivos/manual-ineco-frontal-screening-ifs-para-imprimir_compress.pdf) 
 
-## [3. Hoja con cuadros]() 
+## [3. Hoja con cuadros](https://github.com/danielesnm/INECO/blob/main/archivos/Cuadros.pdf) 
 
 
 
@@ -594,11 +594,22 @@ class: split-33 with-border
 El examinador le presenta al sujeto cuatro cuadrados, los cuales señala siguiendo una secuencia determinada. Se le pide al sujeto que repita la secuencia en orden inverso.  
 
 **Instrucción:**  
-_“Voy a señalar los cuadrados en un orden determinado. Quiero que Ud. los señale en orden inverso”. Hágalo despacio. El paciente puede elegir la mano de preferencia. Hay cuatro trials realizando una secuencia de 2, 3, 4 y 5 cuadrados respectivamente._ 
+
 
 
 ---
-.orange[# **¿Que podemos observar?**]
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/6.png?raw=true)
+background-position: 50% 25%
+background-size: 90%
+
+## .color-main1[ **Instrucción:**]
+_“Voy a señalar los cuadrados en un orden determinado. Quiero que Ud. los señale en orden inverso”. Hágalo despacio. El paciente puede elegir la mano de preferencia. Hay cuatro trials realizando una secuencia de 2, 3, 4 y 5 cuadrados respectivamente._ 
+
+<br><br><br><br><br><br><br>  
+
+--
+
+## .orange[**¿Que podemos observar?**]
 
 ### 1. Omisión
 ### 2. Adición
@@ -608,6 +619,7 @@ _“Voy a señalar los cuadrados en un orden determinado. Quiero que Ud. los se�
 
 <br>
 
+???
 # **Calificación**
 ### La puntuación es el número de secuencias completadas, máximo 4
 
@@ -623,7 +635,7 @@ class: split-33 with-thick-border
 ]
 ]]
 
-.column[.content[# <br>  .color-main2[
+.column[.content[# <br><br>  .color-main2[
 # **7. Capacidad de abstracción**
 ## .orange[**Tarea: interpretacion de refranes**]
 ]
@@ -632,8 +644,7 @@ class: split-33 with-thick-border
 ###- Se utiliza como indicador de .orange[**disfunción conceptual y razonamiento abstracto**]. Habilidades cognitivas únicas de los seres humanos que nos permiten cambiar el conjunto mental de lo específico (es decir, más concreto o tangible) al principio general (es decir, abstracto). Se pide al participante la interpretación del significado de tres refranes
 
 <br>
-### **Instrucción:** 
-_“Ahora le voy a leer un refrán, y querría que me explique el significado del mismo”. Se lee el primer refrán y solo en la primera ocasión, si el paciente presenta una explicación concreta del mismo, se le pide que brinde una explicación más allá del significado concreto. Ejemplo: “Perro que ladra no muerde”; si el paciente dice: “Cuando el perro está atado no puede morder”, se le dice: “Más allá del perro, ¿cuál sería el significado de este refrán?”._
+
 ]]
 
 
@@ -644,20 +655,29 @@ _“Ahora le voy a leer un refrán, y querría que me explique el significado de
 Los déficits en abstracción pueden causar una incapacidad para beneficiarse de las experiencias de una manera significativa, lógica y organizada (Grant & Adams, 2009). También puede resultar en un acercamiento a la vida cotidiana donde cada evento es tratado como si fuera una experiencia novedosa (Lezak et al., 2004).
 
 ---
-.orange[# **¿Que podemos observar?**]
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/7.png?raw=true)
+background-position: 50% 32%
+background-size: 90%
 
+## .color-main1[ **Instrucción:**]
+_“Ahora le voy a leer un refrán, y querría que me explique el significado del mismo”. Se lee el primer refrán y solo en la primera ocasión, si el paciente presenta una explicación concreta del mismo, se le pide que brinde una explicación más allá del significado concreto. Ejemplo: “Perro que ladra no muerde”; si el paciente dice: “Cuando el perro está atado no puede morder”, se le dice: “Más allá del perro, ¿cuál sería el significado de este refrán?”._
+
+<br><br><br><br><br><br><br><br> 
+
+--
+
+## .orange[**¿Que podemos observar?**]
 ### 1. Dificultad para establecer el vínculo semántico para determinar el significado de cada uno de los elementos (dificultades en la comprension linguistica, semántica, sintactica).
 ### 2. Dificultades para descifrar el significado del mensaje verbal, adhiriendose a los aspectos concretos de cada uno de sus elementos.
 
 <br>
 
 
-
-# **Calificación**
-### - Se otorga 1 punto si brinda una explicación adecuada del refrán. 
-### - Se otorga 0.5 si brinda un ejemplo correcto. 
-### - De lo contrario es de 0.
-
+???
+**Calificación**
+- Se otorga 1 punto si brinda una explicación adecuada del refrán. 
+- Se otorga 0.5 si brinda un ejemplo correcto. 
+- De lo contrario es de 0.
 
 ---
 layout: false
@@ -679,8 +699,6 @@ class: split-33 with-border
 
 
 <br>
-### **Instrucción:** 
-_“Fase 1 “Escuche detenidamente estas oraciones y apenas finalice de leerla, Ud. debe decirme, lo más rápido posible, qué palabra completa la oración”. Leer las 3 frases.  Fase 2: “Esta vez, quiero que me diga una palabra que no tenga ningún tipo de sentido en el contexto de las oración, y que no esté relacionada con la palabra que completaría correctamente la oración”. Leer el ejemplo “Por ejemplo: Daniel golpeó el clavo con el... lluvia”._  
 
 ]]
 
@@ -691,24 +709,32 @@ _“Fase 1 “Escuche detenidamente estas oraciones y apenas finalice de leerla,
 La primera parte consta de tres oraciones las cuales son leídas al sujeto, se le pide que las complete, lo más rápido posible, de forma tal que la oración quede correcta. La segunda parte consta también de tres oraciones a las cuales le falta la última palabra, pero en esta parte el sujeto debe completarla con una palabra que sea sintácticamente correcta, pero que no tenga relación con el significado de la oración
 #VIDEO DEMOSTRACION
 ---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/8.png?raw=true)
+background-position: 50% 23%
+background-size: 90%
 
-.orange[# **¿Que podemos observar?**]
+## .color-main1[ **Instrucción:**]
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>  
+
+
+## .orange[**¿Que podemos observar?**]
 ### 1.  
 ### 2. 
 ### 3. 
 <br>
 
-# **Calificación**
-### _Solo se puntúa la segunda parte._ 
-### - No hay error (3)
-### - Uno o dos errores (2)
-### - Más de dos errores (1)
-### - Golpea como el examinador al menos cuatro veces consecutivas (0)
 
+???
+**Calificación**
+_Solo se puntúa la segunda parte._ 
+- No hay error (3)
+- Uno o dos errores (2)
+- Más de dos errores (1)
+- Golpea como el examinador al menos cuatro veces consecutivas (0)
 
 Para cada oración se asigna un puntaje de dos puntos si la palabra no está relacionada con la oración. Se asigna un puntaje de uno si la palabra está relacionada semánticamente con la palabra que completaría de forma correcta la oración, y un puntaje de 0 si utiliza la palabra esperada. (se adjunta un cuadro para la correcta puntuación).
-
 
 ---
 
