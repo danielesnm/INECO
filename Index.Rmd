@@ -1,0 +1,747 @@
+---
+title: ".orange[**INECO (IFS)**]: herramienta para evaluar las funciones ejecutivas "
+subtitle: "TORRALVA, ROCA, GLEICHGERRCHT, LÓPEZ and MANES "
+author: "<br><br>Daniel Salazar Frías"
+institute: "Universidad de Granada"
+output:
+  xaringan::moon_reader:
+     lib_dir: libs
+     css: ["kunoichi", "ninjutsu", "assets/ninpo.css"]
+     nature:
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+background-image: url(https://i0.wp.com/gcneuropsychology.com/wp-content/uploads/2019/12/cropped-Neurology-512.png?fit=512%2C512&ssl=1)
+
+
+# .color-main1[**EVALUACIÓN NEUROPSICOLÓGICA**]
+
+## - La neuropsicología clínica aplica el conocimiento de la .orange[**relación entre el cerebro y el comportamiento**] para la evaluación del funcionamiento normal y anormal.
+--
+
+<br>  
+## - La información recopilada a través de la evaluación, se utiliza para .orange[**determinar**] si un individuo con deterioro cerebral funciona de una manera .orange[**clínica y significativamente diferente**] a un individuo sin deterioro.
+--
+
+<br>  
+## - La integridad funcional de varias habilidades cognitivas, psicosociales y conductuales se evalúan a través de la .orange[**observación y medición**] de diferentes parámetros psicológicos y conductuales [(Strauss, Sherman, & Spreen, 2006)](https://psycnet.apa.org/record/2006-04736-000). 
+
+---
+class: middle bg-main1
+
+.font5[.orange[**Funciones Ejecutivas**]]  
+
+###- ...se refiere al resultado final de una .green[**secuencia coordinada de procesos cognitivos**] destinados a lograr un objetivo particular de manera flexible permitiendo a las personas responder adaptativamente a su entorno.    
+--
+
+###- Las habilidades comúnmente asociadas con el funcionamiento ejecutivo incluyen: .green[**iniciación, planificación, organización, memoria de trabajo, atención, flexibilidad mental, inhibición, regulación emocional y auto-monitoreo.**]  [(Kreutzer, DeLuca, & Caplan, 2011)](https://link.springer.com/referencework/10.1007/978-0-387-79948-3). 
+
+???
+Difieren de las funciones cognitivas de varias maneras. 
+Preguntas sobre las funciones ejecutivas (lo hará y, si es así, cómo y cuándo).
+Preguntas sobre las funciones cognitivas generalmente se expresan en términos de qué o quién (por ejemplo, ¿cuánto sabes?, ¿qué puedes hacer?). 
+
+Cuando las funciones ejecutivas se ven afectadas, aunque sólo sea parcialmente, la persona ya no puede ser capaz de autoasistencia satisfactoria, de realizar un trabajo remunerado o útil independiente, o de mantener relaciones sociales normales, independientemente de lo bien conservadas que estén las capacidades cognitivas, o lo alto que sean las puntuaciones de la persona en las pruebas de habilidades
+
+Los déficits cognitivos generalmente involucran funciones específicas o áreas funcionales; las deficiencias en funciones ejecutivas tienden a aparecer globalmente, afectando todos los aspectos del comportamiento. Además, los trastornos ejecutivos pueden afectar el funcionamiento cognitivo directamente en estrategias comprometidas para acercarse, planificar o llevar a cabo tareas cognitivas, o en un monitoreo defectuoso del desempeño
+
+---
+layout: true
+class: split-two with-border
+
+.column.bg-main1[.content[
+  .split-three[
+ .row[.content[ ### Estudios de neuroimagen indican que la .orange[**corteza prefrontal**] es fundamental para la FE. Ahora se acepta que las FE se distribuye a través de una amplia red cerebral que incluye estructuras corticales y subcorticales [(Stuss and Alexander, 2000)](https://pubmed.ncbi.nlm.nih.gov/11004882/). 
+
+
+ ]]
+  .row[.content[<br>
+ ### Diversos .orange[**trastornos neurológicos y psiquiátricos**] se caracterizan por déficits en la FE.
+
+ ]]
+   .row[.content[<br>
+ ### La evaluación precisa de las FE es fundamental para .orange[**diagnóstico diferencial**]. Herramientas breves y fáciles de administrar, son importantes en la clínica.
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content.center.vmiddle[
+{{content}}
+]]
+
+???
+Sin embargo, ahora está bien establecido que diferentes patologías típicamente clasificadas dentro del mismo paraguas, como varios tipos de demencia, no se ven igualmente afectados en este dominio. Por ejemplo, se sabe que los pacientes que desarrollan la variante conductual de la demencia frontotemporal (bvFTD) tienen deficiencias tempranas y prominentes en las funciones ejecutivas debido a cambios tempranos en la estructura del lóbulo frontal 
+
+Por el contrario, los pacientes con enfermedad de Alzheimer (EA), pueden presentar disfunción ejecutiva muy leve pero no se caracterizan, en menos durante las primeras etapas, por problemas ejecutivos prominentes. Más bien, tienden a presentar déficits en la memoria episódica debido a cambios tempranos en las estructuras del lóbulo temporal medial.
+---
+
+class: hide-row2-col1 hide-row3-col1 with-border
+
+![](https://hablemosdeneurociencia.com/wp-content/uploads/2017/03/Prefrontal_cortex_left_-_lateral_view-800x800.png)
+
+
+---
+
+class: fade-row1-col1 hide-row3-col1 with-border 
+count: false
+
+![](https://www.somno.cl/wp-content/uploads/2019/03/1-4.jpg)
+
+---
+
+class: fade-row1-col1 fade-row2-col1 with-border
+count: false
+
+![](https://www.neuropsicoblog.com/wp-content/uploads/2016/10/IMG_20160928_122732-633x480.jpg)
+
+---
+layout: false
+class: middle bg-main1
+
+#.orange[Objetivo de esta herramienta:]
+
+##1. .green[Detectar disfunción ejecutiva] en pacientes con diversas patologías que afecten los circuitos frontoestriados.  
+--
+
+##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva [(Torralva, Roca, Gleichgerrcht, López & Manes, 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
+
+???
+El diseño del IFS fue primariamente concebido, representando tres grupos de tareas cognitivas,
+como indicaremos a continuación:
+
+---
+class: split´-70 hide-slide-number
+background-image: url(https://iceebp.com/img/neuropsychological-assessment.jpeg)
+background-size: cover
+
+.column.slide-in-left[
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+.sliderbox.vmiddle.shade_main.center[
+.font5[Procesos y tareas]]]
+.column[
+]
+
+---
+layout: true
+class: split-three with-border
+
+.column.bg-main1[.content[
+# **1. Inhibición de respuestas y cambio de sets**
+
+<br>
+
+###Capacidad para detener una conducta en un momento dado y para cambiar rápidamente entre diferentes conjuntos de respuestas de manera verbal y motora.
+
+<br>
+
+###- **Serie motora de Luria**
+###- **Instrucciones conflictivas**
+###- **Go-No go**
+###- **Test de Hayling modificado**
+]]
+
+.column.bg-main2[.content[<br>
+
+#.orange[**2. Abstracción**]  
+
+<br><br><br><br>
+
+###.orange[Capacidad para reconocer patrones y relaciones de ideas teóricas o intangibles.]
+
+<br><br><br><br>
+
+###.orange[###- **Interpretación de refranes**]
+
+]]
+
+.column.bg-main3[.content[<br>
+#.color-main1[**3. Memoria de trabajo**]  
+
+<br><br><br><br>
+
+###.color-main1[Capacidad para mantener información en la mente con el objeto de completar actividades que requieren el manejo de varia información de manera simultánea.]
+
+<br>
+
+.color-main1[
+###- **Dígitos hacia atrás**
+###- **Meses hacia atrás**
+###- **Test de Corsi modificado**]
+]]
+
+???
+No todos los estímulos requieren una respuesta, y a veces una respuesta puede interferir con el comportamiento orientado a la meta. La inhibición de respuesta defectuosa se define como respuesta cuando no se requiere respuesta de esa parte del cuerpo. Se puede ver en una variedad de partes del cuerpo y también podría ser direccional y tal vez hemispacial.
+
+Según Lezak et al. (2004), las aplicaciones prácticas de la abstracción impregnan algunas capacidades funcionales muy importantes, incluyendo: la capacidad de generalizar acerca de las personas, situaciones y eventos; la formación de conceptos; el uso de categorías, y aplicar reglas de procedimiento y principios generales (por ejemplo, códigos de conducta, reglas gramaticales)
+
+---
+
+class: hide-col2 hide-col3
+
+---
+
+class: fade-col1 hide-col3
+count: false
+
+---
+
+class: fade-col1 fade-col2
+count: false
+
+---
+layout: false
+
+background-image: url(https://www.researchgate.net/profile/Carlos_Munoz-Neira/publication/286867952/figure/fig1/AS:414153136197633@1475753210305/Structure-of-the-INECO-Frontal-Screening.png)
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+[(Ihnen, Antivilo, Muñoz-Neira, & Slachevsky, 2013).](https://pubmed.ncbi.nlm.nih.gov/29213818/)
+
+
+---
+layout: false
+background-image: url(https://www.gapsiat.com/wp-content/uploads/2017/12/CEREBRO-e1512121421273.jpg)
+background-position: 50% 50%
+background-size: 75%
+
+???
+**Córtex prefrontal dorsolateral (CPFDL) participa en **: 
+1. La capacidad de formular metas teniendo debidamente en cuenta las consecuencias a largo plazo, para generar múltiples alternativas de respuesta y elegir un comportamiento dirigido a una meta. 
+2. A medida que avanza una secuencia de comportamiento, desempeña un papel en el autocontrol de la idoneidad y corrección del comportamiento y la modificación de los comportamientos cuando cambian las condiciones.
+3. desempeño en tareas que evalúan la MT, fluidez, planificación, flexibilidad mental, iniciación, cambio y abstracción.
+
+- repertorio de respuesta estereotipado o limitado  
+- pérdida fácil del conjunto de tareas, 
+- falta de autocontrol de errores.  
+- incapacidad de organizar una respuesta comportamental ante la presencia de estímulos nuevos o complejos, provocando perseveracion o inflexibilidad (el paciente se quede "atascado en el conjunto"   
+- incapacidad de alternar las conductas, utilizar estrategias apropiadas y organizar la información para adaptarse a los cambios ambientales.
+
+**Córtex prefrontal medial (ventrolateral) participa en:** 
+1. Motivación dirigida la acción. 
+2. Procesos de inhibición, detección y solución de conflictos 
+3. Regulación y esfuerzo atencional. 
+4. Regulación de la agresión y de los estados motivacionales.
+
+- Produce un síndrome neurocomportamental, caracterizado por apatía, pérdida de motivación e interés en su medio ambiente, pérdida de espontaneidad y dificultad para iniciar movimientos y lenguaje, retardo psicomotor; así como incapacidad para concentrar la atención en comportamientos o tareas cognitissa.  
+-La capacidad de respuesta disminuida para iniciar o persistir en el comportamiento, sin alcanzar la gravedad del mutismo acinético. 
+
+
+**Córtex orbitofrontal (anterior) participa en**  
+1. regulación de las emociones y en las conductas afectivas y sociales, así como en la toma de decisiones basadas en estados afectivos (sistema límbico), 
+2. toma de decisiones basadas en la estimación del riesgo-beneficio de las mismas.
+
+- El comportamiento desinhibido/impulsivo/socialmente inapropiado como resultado la interrupción la interrupción de los mecanismos inhibitorios y emocionales.
+- Trastornos de la reactividad emocional como: labilidad emocional y reacciones emocionales situacionalmente inapropiadas, insensibilidad a las necesidades de los otros, y actos antisociales, distractibilidad y desinterés por los sucesos actuales
+- Anosmia, amnesia con confabulación y el fracaso en las pruebas de inhibición
+
+---
+layout: false
+
+background-image: url(https://imgv2-2-f.scribdassets.com/img/document/247896018/original/145716afb1/1597687509?v=1)
+background-position: 50% 40%
+background-size: 50%
+
+---
+
+layout: false
+class: split-33 with-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Inhibición de respuestas y cambio de sets**
+]
+]]
+
+.column[.content[# <br>  .color-main1[
+# **1. Programación motora**
+.orange[## **Tarea: serie motora de Luria**
+]]
+--
+<br>
+###- Se pide a la persona que realice la serie de Luria, inicialmente copiando al evaluador, y luego repitiendo la serie por sí mismo 6 veces. Pacientes con lesiones en el lóbulo frontal pueden tener dificultades en tareas que requieren .orange[**organización temporal, mantenimiento y ejecución de acciones sucesivas.**]
+
+<br>
+### **Instrucción:**
+_“Mire atentamente lo que estoy haciendo. Ahora Ud. realice lo mismo con su mano derecha, primero conmigo, y luego Ud. solo”. Repetir la serie 3 veces con el paciente y luego diga “Ahora realícelo Ud. solo”._  
+
+]]
+
+.column[.content.right[![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQROjuUDYq31Xv_R89zMmcSKwD8Xr9ZDp_yzA&usqp=CAU)]
+]]
+
+???
+###- Dependiendo de la extensión de la lesión, algunos pacientes pueden no ser capaces de completar la serie en el orden correcto, y otros ni siquiera pueden ser capaces de copiarlo
+
+#VIDEO DEMOSTRACIÓN
+
+---
+
+.orange[# **¿Que podemos observar?**]
+
+### 1. Lentificación general  
+### 2. Desautomatización de los movimientos  
+### 3. Falta de espontaneidad  
+### 4. Alteraciones en la coordinación (retardos en una de las manos)  
+### 5. Impulsividad (ecopraxia con rápida autocorrección ante activación de la atención)  
+### 6. Respuestas estereotipadas en las praxias dinámicas (posición vertical del puño).  
+<br>
+
+# **Calificación**
+### - Realiza seis series consecutivas sola (3)  
+### - Realiza al menos tres series consecutivas correctas (2)  
+### - Falla sola, pero realiza tres series correctas con el examinador (1)  
+### - NO puede realizar tres series consecutivas incluso con el examinador (0)
+
+???
+los pacientes con deficiencias menos graves son incapaces de ejecutar la serie en el orden correcto, mientras que los más gravemente afectados son incapaces de aprender la serie. Se puede observar simplificación de la tarea (dos gestos en lugar de tres) y perseverancia (repetición inadecuada de los mismos gestos)
+
+---
+
+layout: false
+class: split-33 with-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Inhibición de respuestas y cambio de sets**
+]
+]]
+
+.column[.content[# <br>  .color-main1[
+# **2. Resistencia a la interferencia **
+## .orange[**Tarea: instrucciones conflictivas**]
+]
+
+<br>
+###- La capacidad de .orange[**auto-regulación conductual**] se pueden observar en tareas en las que las instrucciones entran en conflicto con la información sensorial.Se pide que golpee la mesa una vez cuando el administrador la golpea dos, y que golpee dos veces cuando el administrador la golpea una vez.
+
+<br>
+### **Instrucción:** 
+_“Golpee la mesa dos veces cuando yo lo golpee 1 vez. Realizar un bloque de práctica en dónde el administrador golpea la mesa una vez, tres veces consecutivas; Ahora golpee la mesa una vez cuando yo la golpee 2 veces”. Bloque de practica. Ahora realice la serie 1-1-2-1-2-2-2-1-1-2”_  
+
+]]
+
+.column[.content.right[![](https://image.flaticon.com/icons/png/128/2583/2583180.png)]
+]]
+
+???
+### Por ejemplo en la prueba Stroop, en la que el sujeto debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. 
+
+Esto también ocurre en el caso de instrucciones contradictorias, en las que los sujetos deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los sujetos deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
+
+### Realiza un bloque de práctica en dónde el administrador golpea la mesa una vez, tres veces consecutivas; y luego dos veces, tres veces más.  
+
+
+#VIDEO DEMOSTRACION
+---
+
+
+.orange[# **¿Que podemos observar?**]
+
+### 1. Dificultad para cambiar a un programa motor diferente, repitiendo incorrectamente los movimientos. 
+### 2. Dificultad para dejar de realizar moviemientos, una vez que la tarea a terminado.
+### 3. Movimientos ecopráxicos (imitación)
+<br>
+
+# **Calificación**
+### - No hay error (3)
+### - Uno o dos errores (2)
+### - Más de dos errores (1)
+### - Golpea como el examinador al menos cuatro veces consecutivas (0)
+
+???
+Los pacientes con lesiones frontales tienden a imitar los movimientos del examinador, ignorando los instrucción.
+
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Inhibición de respuestas y cambio de sets**
+]
+]]
+
+.column[.content[# <br>  .color-main1[
+# **3. Control inhibitorio motor**
+## .orange[**Tarea: go-no go**]
+]
+--
+<br>
+###- Se administra inmediatamente después del test anterior. La capacidad para .orange[**inhibir una respuesta**] se puede evaluar con el paradigma go-no go, en el que los sujetos deben inhibir un patrón de respuesta previamente establecido (no tocar cuando el examinador toca dos veces.)
+
+
+<br>
+### **Instrucción:** 
+_“Golpee la mesa una vez, cuando yo la golpee una vez”. Para asegurarse que el sujeto ha entendido la consiga golpee una vez la mesa. Repítalo 3 veces. “Ahora no golpee cuando yo golpee dos veces”. Para asegurarse que el sujeto ha entendido la consiga golpee dos veces la mesa.Repítalo 3 veces. Ahora realice la siguiente serie: 1-1-2-1-2-2-2-1-1-2._  
+
+]]
+
+.column[.content.right[![](https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/f4/58/a4/f458a471-97aa-1809-51b8-4a78887b54dd/source/256x256bb.jpg)]
+]]
+
+???
+### Por ejemplo en la prueba Stroop, en la que el sujeto debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. 
+
+Esto también ocurre en el caso de instrucciones contradictorias, en las que los sujetos deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los sujetos deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
+
+### Realiza un bloque de práctica en dónde el administrador golpea la mesa una vez, tres veces consecutivas; y luego dos veces, tres veces más.  
+
+
+#VIDEO DEMOSTRACION
+---
+
+
+.orange[# **¿Que podemos observar?**]
+
+### 1. Dificultad para cambiar a un programa motor diferente, repitiendo incorrectamente los movimientos. 
+### 2. Dificultad para dejar de realizar moviemientos, una vez que la tarea a terminado.
+### 3. Movimientos ecopráxicos (imitación)
+<br>
+
+# **Calificación**
+### - No hay error (3)
+### - Uno o dos errores (2)
+### - Más de dos errores (1)
+### - Golpea como el examinador al menos cuatro veces consecutivas (0)
+
+???
+La retención de una respuesta puede ser difícil para los pacientes con daño en la parte ventral de los lóbulos frontales.
+
+---
+
+layout: false
+class: split-33 with-border
+
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main3[.content.vmiddle[
+.center[
+# .color-main1[**Memoria de trabajo**]
+]
+]]
+
+.column[.content[# <br>  .color-main3[
+# **4. Memoria de trabajo numérica**
+## .orange[**Tarea: digitos hacia atrás**]
+]
+<br>
+###- Evalúa la .orange[**amplitud de la memoria a corto plazo**] y la eficacia en la utilización de .orange[**la memoria de trabajo**]. Supone un esfuerzo cognitivo mayor, ya que se debe retener en la mente la base de datos original, para poder ir repitiendo los números en orden opuesto al presentado
+
+
+<br>
+### **Instrucción:**  
+_“Voy a decirle algunos dígitos y, cuando yo termine, repítalos de atrás para adelante. Por ejemplo, si yo digo 7-1-9, ¿qué tendría que decir usted?”. Si el sujeto responde los números agrupados, se le pide que lo haga de a uno por vez. Lea los dígitos de a uno por segundo, bajando levemente la voz en el último dígito de la serie. Si el sujeto repite correctamente cualquier de los dos intentos de cada trial, se administra eltrial siguiente. Interrumpa al cabo de puntajes de 0 en ambos intentos de cualquier ítem_ 
+
+]]
+]]
+
+.column[.content.right[![](https://cdn.brainpop.com/mx/mx/matematicas/numeros_y_operadores/numeros_primos/icon_180x180.png)]
+]]
+
+???
+Es una tarea incluida en diversas baterías psicológicas y neuropsicológicas, En general se incluyen dos diferentes pruebas: la retención en progresión y en regresión. Cada una involucra dos diferentes actividades cognoscitivas y se afectan por lesiones diferentes, los dígitos en progresión por alteraciones temporales mientras que los dígitos en regresión son una medida de la memoria de trabajo y están relacionados con funciones frontales dorsolaterales (Lezak et al., 2004).
+
+---
+
+.orange[# **¿Que podemos observar?**]
+
+### 1. Omisión: respuestas caracterizadas por la falta de un dígito (6-8-2-1/1-.red[5]-2-8-6). 
+### 2. Adición: respuestas caracterizadas por dígitos agregados (4-7-2-3-.red[1]/3-2-7-4). 
+### 3. Perseveración: respuestas caracterizadas por la repetición de números (4-.red[7-7-7]/3-2-7-4).
+### 4. Sustitución: se refiere a un número en la cadena de respuesta que reemplaza un número original y no cambia la longitud (6-8-.red[2]-1/1-5-8-6). 
+### 5. Error de secuencia:se refiere a un dígito que está mal ordenado, pero no cambia la longitud de la cadena de números (5-.red[8-6]-1/1-8-6-5).
+
+
+<br>
+
+
+# **Calificación**
+###La puntuación será el número de digitos en la cadena la que el sujeto pasó cualquiera de las pruebas, máximo 6.
+
+???
+OMISION:su interpretación considera la longitud de la secuencia numérica: si este tipo de error ocurre en secuencias de dígitos más cortas (cuatro tramos) o más largas (siete u ocho tramos).
+
+ADICION: Un tipo de error de suma es una suma automatizada error. Se produce un error de suma automatizado cuando el número agregado es secuencial, es decir, 7-4-5-3 repetido como 7-3-4-5-6. Los errores de adición automatizados sugieren un problema de control ejecutivo o del sistema frontal.
+
+PERSEVERACIÓN: Al notar una perseverancia, uno debe observar si las respuestas perseveradas fueron capturadas dentro o entre las pruebas de prueba.
+
+SUSTITUCIÓN:  difiere de los errores de adicion  porque estos cambian la longitud de la cadena de dígitos. Esto se codifica cuando se proporciona cualquier dígito en lugar de un dígito contenido en el estímulo.
+
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main3[.content.vmiddle[
+.center[
+# .color-main1[**Memoria de trabajo**]
+]
+]]
+
+.column[.content[# <br>  .color-main3[
+# **5. Memoria de trabajo verbal**
+## .orange[**Tarea: meses hacia atras** ]
+]
+<br>
+###- Esta tarea evalua la capacidad para .orange[**manipular información de modo activo mientras se realiza una actividad cognitiva**] pero esta vez con una serie que es altamente conocida por todas las personas. Se le pide al sujeto que enumere los meses del año en orden inverso, empezando por Diciembre. 
+
+<br>
+### **Instrucción:**  
+_“Diga los meses del año en orden inverso, comenzando por el último mes del año”._ 
+
+]]
+]]
+
+.column[.content.right[![](https://es.calcuworld.com/wp-content/uploads/sites/2/2019/09/creador-de-calendarios.png)]
+]]
+
+???
+
+---
+.orange[# **¿Que podemos observar?**]
+
+### 1. Omisiónes
+### 2. Perseveraciónes
+### 3. Errores de secuencia
+### 4. Dificultades para iniciar la tarea
+### 5. Lentificación general
+### 6. Impulsividad
+
+<br>
+
+
+# **Calificación**
+### - No hay error (2)
+### - Uno error (1)
+### - Dos errores o más (0)
+
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main3[.content.vmiddle[
+.center[
+# .color-main1[**Memoria de trabajo**]
+]
+]]
+
+.column[.content[# <br>  .color-main3[
+# **6. Memoria de trabajo visoespacial**
+## .orange[**Tarea: test de Corsi modificado**]
+]
+<br>
+###- Utilizada como una contraparte visoespacial de las tareas de capacidad de memoria de trabajo. Evalúa la capacidad para .orange[**retener y reproducir activamente el orden secuencial inverso**] en el que son señaladas una serie de figuras situadas en un espacio específico. 
+
+<br>
+### **Instrucción:**  
+_“Voy a señalar los cuadrados en un orden determinado. Quiero que Ud. los señale en orden inverso”. Hágalo despacio. El paciente puede elegir la mano de preferencia. Hay cuatro trials realizando una secuencia de 2, 3, 4 y 5 cuadrados respectivamente._ 
+
+]]
+]]
+
+.column[.content.right[![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCXA7ghh2dQ2jJfAmhSt27_6VcjKSSoXXlbA&usqp=CAU)]
+]]
+
+???
+El examinador le presenta al sujeto cuatro cuadrados, los cuales señala siguiendo una secuencia determinada. Se le pide al sujeto que repita la secuencia en orden inverso.  
+
+---
+.orange[# **¿Que podemos observar?**]
+
+### 1. Omisión
+### 2. Adición
+### 3. Perseveración
+### 4. Sustitución
+### 5. Error de secuencia
+
+<br>
+
+# **Calificación**
+### La puntuación es el número de secuencias completadas, máximo 4
+
+---
+
+---
+layout: false
+class: split-33 with-thick-border
+
+.column.bg-main2[.content.vmiddle[
+.center[
+# .orange[**Abstracción**]
+]
+]]
+
+.column[.content[# <br>  .color-main2[
+# **7. Capacidad de abstracción**
+## .orange[**Tarea: interpretacion de refranes**]
+]
+<br><br><br><br>
+
+###- Se utiliza como indicador de .orange[**disfunción conceptual y razonamiento abstracto**]. Habilidades cognitivas únicas de los seres humanos que nos permiten cambiar el conjunto mental de lo específico (es decir, más concreto o tangible) al principio general (es decir, abstracto). Se pide al participante la interpretación del significado de tres refranes
+
+<br>
+### **Instrucción:** 
+_“Ahora le voy a leer un refrán, y querría que me explique el significado del mismo”. Se lee el primer refrán y solo en la primera ocasión, si el paciente presenta una explicación concreta del mismo, se le pide que brinde una explicación más allá del significado concreto. Ejemplo: “Perro que ladra no muerde”; si el paciente dice: “Cuando el perro está atado no puede morder”, se le dice: “Más allá del perro, ¿cuál sería el significado de este refrán?”._
+]]
+
+
+.column[.content.right[![](https://i.pinimg.com/originals/d0/d8/54/d0d854432d38df5c143d868ec0d9605c.png)]
+]]
+
+???
+Los déficits en abstracción pueden causar una incapacidad para beneficiarse de las experiencias de una manera significativa, lógica y organizada (Grant & Adams, 2009). También puede resultar en un acercamiento a la vida cotidiana donde cada evento es tratado como si fuera una experiencia novedosa (Lezak et al., 2004).
+
+---
+.orange[# **¿Que podemos observar?**]
+
+### 1. Dificultad para establecer el vínculo semántico para determinar el significado de cada uno de los elementos (dificultades en la comprension linguistica, semántica, sintactica).
+### 2. Dificultades para descifrar el significado del mensaje verbal, adhiriendose a los aspectos concretos de cada uno de sus elementos.
+
+<br>
+
+
+
+# **Calificación**
+### - Se otorga 1 punto si brinda una explicación adecuada del refrán. 
+### - Se otorga 0.5 si brinda un ejemplo correcto. 
+### - De lo contrario es de 0.
+
+
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Inhibición de respuestas y cambio de sets**
+]
+]]
+
+.column[.content[# <br>  .color-main1[
+# **8. Control inhibitorio verbal**
+## .orange[**Tarea: test de Hayling modificado**]
+]
+--
+<br>
+###- Consiste de 6 oraciones a las cuales le falta la última palabra. Están construidas de tal forma que la opción correcta está fuertemente sugerida por el contexto de la oración. Al presentar una estructura idéntica durante 2 fases, es  capaz de evaluar de manera eficiente dos componentes de la función ejecutiva .orange[**(iniciación e inhibición)**] en relación con una forma verbal simbólica única.
+
+
+<br>
+### **Instrucción:** 
+_“Fase 1 “Escuche detenidamente estas oraciones y apenas finalice de leerla, Ud. debe decirme, lo más rápido posible, qué palabra completa la oración”. Leer las 3 frases.  Fase 2: “Esta vez, quiero que me diga una palabra que no tenga ningún tipo de sentido en el contexto de las oración, y que no esté relacionada con la palabra que completaría correctamente la oración”. Leer el ejemplo “Por ejemplo: Daniel golpeó el clavo con el... lluvia”._  
+
+]]
+
+.column[.content.right[![](https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/clapping-hands.png)]
+]]
+
+???
+La primera parte consta de tres oraciones las cuales son leídas al sujeto, se le pide que las complete, lo más rápido posible, de forma tal que la oración quede correcta. La segunda parte consta también de tres oraciones a las cuales le falta la última palabra, pero en esta parte el sujeto debe completarla con una palabra que sea sintácticamente correcta, pero que no tenga relación con el significado de la oración
+#VIDEO DEMOSTRACION
+---
+
+.orange[# **¿Que podemos observar?**]
+
+### 1.  
+### 2. 
+### 3. 
+<br>
+
+# **Calificación**
+### _Solo se puntúa la segunda parte._ 
+### - No hay error (3)
+### - Uno o dos errores (2)
+### - Más de dos errores (1)
+### - Golpea como el examinador al menos cuatro veces consecutivas (0)
+
+
+Para cada oración se asigna un puntaje de dos puntos si la palabra no está relacionada con la oración. Se asigna un puntaje de uno si la palabra está relacionada semánticamente con la palabra que completaría de forma correcta la oración, y un puntaje de 0 si utiliza la palabra esperada. (se adjunta un cuadro para la correcta puntuación).
+
+
+---
+
+---
+class: bg-main1 
+
+# .orange[**Referencias complementarias**]
+
+[Davies, G., & Piovesana, A. (2015). Adult verbal abstract reasoning assessment instruments and their clinimetric properties. The Clinical Neuropsychologist, 29(7), 1010-1033.](https://pubmed.ncbi.nlm.nih.gov/26732461/)
+
+[Jurado, M. B., & Rosselli, M. (2007). The elusive nature of executive functions: a review of our current understanding. Neuropsychology review, 17(3), 213-233.](https://pubmed.ncbi.nlm.nih.gov/17786559/)
+
+[Moreira, H. S., Costa, A. S., Machado, Á., Castro, S. L., Lima, C. F., & Vicente, S. G. (2019). Distinguishing mild cognitive impairment from healthy aging and Alzheimer’s Disease: The contribution of the INECO Frontal Screening (IFS). PloS one, 14(9), e0221873.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6736301/)
+---
+
+---
+
+---
+class: inverse, middle, center
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
+background-size: contain
+
+# Naruto
+
+---
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+background-size: 100px
+background-position: 90% 8%
+
+# Sharingan
+
+The R package name **xaringan** was derived<sup>1</sup> from **Sharingan**, a dōjutsu in the Japanese anime _Naruto_ with two abilities:
+
+- the "Eye of Insight"
+
+- the "Eye of Hypnotism"
+
+I think a presentation is basically a way to communicate insights to the audience, and a great presentation may even "hypnotize" the audience.<sup>2,3</sup>
+
+.footnote[
+[1] In Chinese, the pronounciation of _X_ is _Sh_ /ʃ/ (as in _shrimp_). Now you should have a better idea of how to pronounce my last name _Xie_.
+
+[2] By comparison, bad presentations only put the audience to sleep.
+
+[3] Personally I find that setting background images for slides is a killer feature of remark.js. It is an effective way to bring visual impact into your presentations.
+]
+
+---
+
+# Naruto terminology
+
+The **xaringan** package borrowed a few terms from Naruto, such as
+
+- [Sharingan](http://naruto.wikia.com/wiki/Sharingan) (写輪眼; the package name)
+
+- The [moon reader](http://naruto.wikia.com/wiki/Moon_Reader) (月読; an attractive R Markdown output format)
+
+- [Chakra](http://naruto.wikia.com/wiki/Chakra) (查克拉; the path to the remark.js library, which is the power to drive the presentation)
+
+- [Nature transformation](http://naruto.wikia.com/wiki/Nature_Transformation) (性質変化; transform the chakra by setting different options)
+
+- The [infinite moon reader](http://naruto.wikia.com/wiki/Infinite_Tsukuyomi) (無限月読; start a local web server to continuously serve your slides)
+
+- The [summoning technique](http://naruto.wikia.com/wiki/Summoning_Technique) (download remark.js from the web)
+
+You can click the links to know more about them if you want. The jutsu "Moon Reader" may seem a little evil, but that does not mean your slides are evil.
+
+---
+
+class: center
+
+# Hand seals (印)
+
+Press `h` or `?` to see the possible ninjutsu you can use in remark.js.
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Mudra-Naruto-KageBunshin.svg)
+
+---
+
+class: center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.org/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
