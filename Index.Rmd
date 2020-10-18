@@ -1,5 +1,5 @@
 ---
-title: ".orange[**INECO (IFS)**]: herramienta para evaluar las funciones ejecutivas "
+title: ".orange[**INECO (IFS)**]: una herramienta para evaluar funciones ejecutivas"
 subtitle: "TORRALVA, ROCA, GLEICHGERRCHT, LÓPEZ and MANES "
 author: "<br><br>Daniel Salazar Frías"
 institute: "Universidad de Granada"
@@ -18,7 +18,7 @@ background-image: url(https://i0.wp.com/gcneuropsychology.com/wp-content/uploads
 
 # .color-main1[**EVALUACIÓN NEUROPSICOLÓGICA**]
 
-## - La neuropsicología clínica aplica el conocimiento de la .orange[**relación entre el cerebro y el comportamiento**] para la evaluación del funcionamiento normal y anormal.
+## - La neuropsicología aplica el conocimiento de la .orange[**relación entre el cerebro y el comportamiento**] para la evaluación del funcionamiento normal y anormal.
 --
 
 <br>  
@@ -26,7 +26,15 @@ background-image: url(https://i0.wp.com/gcneuropsychology.com/wp-content/uploads
 --
 
 <br>  
-## - La integridad funcional de varias habilidades cognitivas, psicosociales y conductuales se evalúan a través de la .orange[**observación y medición**] de diferentes parámetros psicológicos y conductuales [(Strauss, Sherman, & Spreen, 2006)](https://psycnet.apa.org/record/2006-04736-000). 
+## - La integridad funcional de varias habilidades cognitivas, psicosociales y conductuales se evalúan a través de la .orange[**observación y medición**] de diferentes parámetros psicológicos y conductuales [(Strauss, Sherman, & Spreen, 2006)](https://psycnet.apa.org/record/2006-04736-000).  
+
+
+???
+
+**¿Qué es la neuropsiologia?**
+Es un campo de las neurociencias que se enfocan al estudio de la relación entre las estructuras del cerebro y el comportamiento humano, tanto en personas sanas como en personas que sufren daños cerebrales.
+
+**¿Que es la evaluacion neuropsicologica?**
 
 ---
 class: middle bg-main1
@@ -216,6 +224,9 @@ background-size: 75%
 - falta de autocontrol de errores.  
 - incapacidad de organizar una respuesta comportamental ante la presencia de estímulos nuevos o complejos, provocando perseveracion o inflexibilidad (el paciente se quede "atascado en el conjunto"   
 - incapacidad de alternar las conductas, utilizar estrategias apropiadas y organizar la información para adaptarse a los cambios ambientales.
+
+For example, patients with dorsolateral prefrontal cortex injury tend to perform least well on working memory measures and set-shifting tasks that require shifts between dimensions (Rogers,Andrews, Grasby, Brooks, & Robbins, 2000), yet do well on reversal learning and inhibition tasks. The
+opposite pattern can be seen in patients with more ventromedial involvement.
 
 **Córtex prefrontal medial (ventrolateral) participa en:** 
 1. Motivación dirigida la acción. 
@@ -718,7 +729,7 @@ class: split-33 with-border
 
 ]]
 
-.column[.content.right[![](https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/clapping-hands.png)]
+.column[.content.right[![](data:image/png;base64,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)]
 ]]
 
 ???
@@ -736,9 +747,9 @@ background-size: 90%
 
 
 ## .orange[**¿Que podemos observar?**]
-### 1.  
-### 2. 
-### 3. 
+### 1. Dificultades para iniciar la respuesta verbal.
+### 2. Dificultades para inhibir la respuesta verbal.
+
 <br>
 
 
@@ -758,19 +769,24 @@ background-position: 50% 50%
 background-size: 50%
 
 ---
-
----
 class: bg-main1 
 
 # .orange[**Referencias complementarias**]
 
-[Davies, G., & Piovesana, A. (2015). Adult verbal abstract reasoning assessment instruments and their clinimetric properties. The Clinical Neuropsychologist, 29(7), 1010-1033.](https://pubmed.ncbi.nlm.nih.gov/26732461/)
+- [Davies, G., & Piovesana, A. (2015). Adult verbal abstract reasoning assessment instruments and their clinimetric properties. The Clinical Neuropsychologist, 29(7), 1010-1033.](https://pubmed.ncbi.nlm.nih.gov/26732461/)
 
-[Dubois, B., Slachevsky, A., Litvan, I., & Pillon, B. (2000). The FAB: a Frontal Assessment Battery at bedside. Neurology, 55(11), 1621–1626.](https://github.com/danielesnm/INECO/blob/main/archivos/The_FAB_a_Frontal_Assessment_Battery_at.pdf)
+- [Dubois, B., Slachevsky, A., Litvan, I., & Pillon, B. (2000). The FAB: a Frontal Assessment Battery at bedside. Neurology, 55(11), 1621–1626.](https://github.com/danielesnm/INECO/blob/main/archivos/The_FAB_a_Frontal_Assessment_Battery_at.pdf)
 
-[Jurado, M. B., & Rosselli, M. (2007). The elusive nature of executive functions: a review of our current understanding. Neuropsychology review, 17(3), 213-233.](https://pubmed.ncbi.nlm.nih.gov/17786559/)
+- [Jurado, M. B., & Rosselli, M. (2007). The elusive nature of executive functions: a review of our current understanding. Neuropsychology review, 17(3), 213-233.](https://pubmed.ncbi.nlm.nih.gov/17786559/)
 
-[Moreira, H. S., Costa, A. S., Machado, Á., Castro, S. L., Lima, C. F., & Vicente, S. G. (2019). Distinguishing mild cognitive impairment from healthy aging and Alzheimer’s Disease: The contribution of the INECO Frontal Screening (IFS). PloS one, 14(9), e0221873.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6736301/)
+- [Moreira, H. S., Costa, A. S., Machado, Á., Castro, S. L., Lima, C. F., & Vicente, S. G. (2019). Distinguishing mild cognitive impairment from healthy aging and Alzheimer’s Disease: The contribution of the INECO Frontal Screening (IFS). PloS one, 14(9), e0221873.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6736301/)
+
+- [Torralva, T., Roca, M., Gleichgerrcht, E., López, P., & Manes, F. (2009). INECO Frontal Screening (IFS): a brief, sensitive, and specific tool to assess executive functions in dementia. Journal of the International Neuropsychological Society : JINS, 15(5), 777–786.](https://pubmed.ncbi.nlm.nih.gov/19635178/)
+
+- [Strauss, E., Sherman, E. M. S., & Spreen, O. (2006). A compendium of neuropsychological tests: Administration, norms, and commentary (3rd ed.). Oxford University Press.](https://psycnet.apa.org/record/2006-04736-000).
+
+- [Stuss, D. T., & Alexander, M. P. (2000). Executive functions and the frontal lobes: a conceptual view. Psychological research, 63(3-4), 289–298.](https://pubmed.ncbi.nlm.nih.gov/11004882/)
+
 ---
 
 class: center, middle
