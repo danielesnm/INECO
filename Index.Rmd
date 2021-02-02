@@ -716,7 +716,7 @@ background-size: 50%
 
 ---
 layout: false
-class: middle bg-main1
+class: middle bg-main2
 
 .font5[**Test de Fluidez verbal**]	
 
@@ -726,7 +726,7 @@ class: middle bg-main1
 
 #.orange[Objetivo de esta herramienta:]
 
-##1. .green[Tarea de producción verbal] que aporta información sobre la capacidad de almacenamiento, la habilidad para recuperar información, organización del pensamiento y evaluación de estrategias usadas en la búsqueda de las palabras. Implica también la habilidad de atención sostenida y control inhibitorio.
+##1. Tarea de producción verbal que aporta información sobre la capacidad de almacenamiento, la habilidad para recuperar información, organización del pensamiento y evaluación de estrategias usadas en la .green[**búsqueda de las palabras**]. Implica también la habilidad de atención sostenida y control inhibitorio.
 
 ???
 Test corto utilizado ampliamente en las evaluaciones neuropsicológicas para el estudio de habilidades verbales y de funciones ejecutivas
@@ -784,19 +784,91 @@ count: false
 
 ---
 layout: false
-background-image: url(https://imgv2-2-f.scribdassets.com/img/document/247896018/original/145716afb1/1597687509?v=1)
-background-position: 70% 40%
-background-size: 50%
+class: split-33 with-border
 
-# .color-main1[**Materiales**]
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Test de fluidez verbal**
+]
+]]
 
-## [1. Protocolo](https://github.com/danielesnm/INECO/blob/main/archivos/INECO%20protocolo.pdf) 
+.column[.content[# <br>  .color-main1[# **1. Fluidez semántica**
+## .orange[**Material**]
+]
+<br>
+###- Cronometro o reloj con segundero
 
-## [2. Manual](https://github.com/danielesnm/INECO/blob/main/archivos/manual-ineco-frontal-screening-ifs-para-imprimir_compress.pdf) 
-
-## [3. Hoja con cuadros](https://github.com/danielesnm/INECO/blob/main/archivos/Cuadros.pdf) 
+<br>
 
 
+## .orange[**Instrucción**]
+###Por favor, dígame el mayor número posible de animales durante un minuto.No se pueden decir nombres propios (nombres de personas ni de ciudades).
+
+
+]]
+
+.column[.content.right[![](data:image/png;base64,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)]
+]]
+
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Test de fluidez verbal**
+]
+]]
+
+.column[.content[# <br>  .color-main1[# **1. Fluidez fonológica**
+## .orange[**Material**]
+]
+<br>
+###- Cronometro o reloj con segundero
+
+<br>
+
+
+## .orange[**Instrucción**]
+###Por favor, dígame el mayor número posible palabras que empiecen por F, S, A durante un minuto.No se pueden decir nombres propios (nombres de personas ni de ciudades).
+
+
+]]
+
+.column[.content.right[![](data:image/png;base64,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)]
+]]
+
+
+---
+class: split´-70 hide-slide-number
+background-image: url(https://www.duffthepsych.com/wp-content/uploads/2016/12/AdobeStock_138803523-1200x550.jpeg)
+background-size: cover
+
+.column.slide-in-left[
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+.sliderbox.vmiddle.shade_main.center[
+.font5[Práctica]]]
+.column[
+]
+---
+layout: false
+class: middle bg-main3
+
+.font5[**Test Auditivo-Verbal de Rey**]	
+
+
+
+--
+
+#.orange[Objetivo de esta herramienta:]
+
+##1. .green[**Analizar la curva de aprendizaje verbal**] de la persona evaluada, la memoria inmediata y el recuerdo demorado. 
+
+##2. Evaluar .green[**aspectos ejecutivos de la memoria**], como el recuerdo libre en comparación con la prueba de reconocimiento, y la presencia de intrusiones y perseveraciones. 
+
+
+???
+Test corto utilizado ampliamente en las evaluaciones neuropsicológicas para el estudio de habilidades verbales y de funciones ejecutivas
 ---
 class: bg-main1 
 
