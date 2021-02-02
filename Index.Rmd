@@ -1,7 +1,7 @@
 ---
-title: ".orange[**INECO (IFS)**]: una herramienta para evaluar funciones ejecutivas"
-subtitle: "TORRALVA, ROCA, GLEICHGERRCHT, LÓPEZ and MANES "
-author: "<br><br>Daniel Salazar Frías"
+title: ".orange[**Proyecto**]: Validación en población española de la WCPA y la Escala Cognitiva de las Actividades de la Vida Diaria"
+subtitle: "Población sana y con daño cerebral adquirido" 
+author: 
 institute: "Universidad de Granada"
 output:
   xaringan::moon_reader:
@@ -56,57 +56,11 @@ Cuando las funciones ejecutivas se ven afectadas, aunque sólo sea parcialmente,
 Los déficits cognitivos generalmente involucran funciones específicas o áreas funcionales; las deficiencias en funciones ejecutivas tienden a aparecer globalmente, afectando todos los aspectos del comportamiento. Además, los trastornos ejecutivos pueden afectar el funcionamiento cognitivo directamente en estrategias comprometidas para acercarse, planificar o llevar a cabo tareas cognitivas, o en un monitoreo defectuoso del desempeño
 
 ---
-layout: true
-class: split-two with-border
-
-.column.bg-main1[.content[
-  .split-three[
- .row[.content[ ### Estudios de neuroimagen indican que la .orange[**corteza prefrontal**] es fundamental para la FE. Ahora se acepta que las FE se distribuye a través de una amplia red cerebral que incluye estructuras corticales y subcorticales [(Stuss and Alexander, 2000)](https://pubmed.ncbi.nlm.nih.gov/11004882/). 
-
-
- ]]
-  .row[.content[<br>
- ### Diversos .orange[**trastornos neurológicos y psiquiátricos**] se caracterizan por déficits en la FE.
-
- ]]
-   .row[.content[<br>
- ### La evaluación precisa de las FE es fundamental para .orange[**diagnóstico diferencial**]. Herramientas breves y fáciles de administrar, son importantes en la clínica.
- ]]
- ]
-]]
-
-.column.bg-main1[.content.center.vmiddle[
-{{content}}
-]]
-
-???
-Sin embargo, ahora está bien establecido que diferentes patologías típicamente clasificadas dentro del mismo paraguas, como varios tipos de demencia, no se ven igualmente afectados en este dominio. Por ejemplo, se sabe que los pacientes que desarrollan la variante conductual de la demencia frontotemporal (bvFTD) tienen deficiencias tempranas y prominentes en las funciones ejecutivas debido a cambios tempranos en la estructura del lóbulo frontal 
-
-Por el contrario, los pacientes con enfermedad de Alzheimer (EA), pueden presentar disfunción ejecutiva muy leve pero no se caracterizan, en menos durante las primeras etapas, por problemas ejecutivos prominentes. Más bien, tienden a presentar déficits en la memoria episódica debido a cambios tempranos en las estructuras del lóbulo temporal medial.
----
-
-class: hide-row2-col1 hide-row3-col1 with-border
-
-![](https://hablemosdeneurociencia.com/wp-content/uploads/2017/03/Prefrontal_cortex_left_-_lateral_view-800x800.png)
-
-
----
-
-class: fade-row1-col1 hide-row3-col1 with-border 
-count: false
-
-![](https://www.somno.cl/wp-content/uploads/2019/03/1-4.jpg)
-
----
-
-class: fade-row1-col1 fade-row2-col1 with-border
-count: false
-
-![](https://www.neuropsicoblog.com/wp-content/uploads/2016/10/IMG_20160928_122732-633x480.jpg)
-
----
 layout: false
 class: middle bg-main1
+
+.font5[**INECO Frontal Screening**](Torralva, et al., 2009)
+--
 
 #.orange[Objetivo de esta herramienta:]
 
@@ -197,15 +151,6 @@ count: false
 
 class: fade-col1 fade-col2
 count: false
-
----
-layout: false
-
-background-image: url(https://www.researchgate.net/profile/Carlos_Munoz-Neira/publication/286867952/figure/fig1/AS:414153136197633@1475753210305/Structure-of-the-INECO-Frontal-Screening.png)
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-[(Ihnen, Antivilo, Muñoz-Neira, & Slachevsky, 2013).](https://pubmed.ncbi.nlm.nih.gov/29213818/)
-
 
 ---
 layout: false
@@ -422,6 +367,7 @@ _“Golpee la mesa una vez, cuando yo la golpee una vez”. Para asegurarse que 
 
 #VIDEO DEMOSTRACION
 ---
+layout: false
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/3.png?raw=true)
 background-position: 50% 17%
 background-size: 90%
@@ -767,6 +713,89 @@ Para cada oración se asigna un puntaje de dos puntos si la palabra no está rel
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/refranes.png?raw=true)
 background-position: 50% 50%
 background-size: 50%
+
+---
+layout: false
+class: middle bg-main1
+
+.font5[**Test de Fluidez verbal**]	
+
+
+
+--
+
+#.orange[Objetivo de esta herramienta:]
+
+##1. .green[Tarea de producción verbal] que aporta información sobre la capacidad de almacenamiento, la habilidad para recuperar información, organización del pensamiento y evaluación de estrategias usadas en la búsqueda de las palabras. Implica también la habilidad de atención sostenida y control inhibitorio.
+
+???
+Test corto utilizado ampliamente en las evaluaciones neuropsicológicas para el estudio de habilidades verbales y de funciones ejecutivas
+---
+class: split´-70 hide-slide-number
+background-image: url(https://iceebp.com/img/neuropsychological-assessment.jpeg)
+background-size: cover
+
+.column.slide-in-left[
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+.sliderbox.vmiddle.shade_main.center[
+.font5[Procesos y tareas]]]
+.column[
+]
+
+---
+layout: true
+class: split-two with-border
+
+.column.bg-main1[.content[
+# .color-main4[**1. Fluidez verbal semántica **]
+
+<br><br><br>
+
+### .color-main4[Capacidad para la evocación de palabras spor medio de asociaciones semánticas y en el significado de las palabras. Dependerían de la memoria y del conocimiento semántico .]
+
+<br><br><br><br><br>
+.color-main4[
+###- **Nombrar todos los elementos dentro de una categoría semántica determinada (animales)**]
+]]
+
+.column.bg-main2[.content[
+#.orange[**2. Fluidez verbal fonológica **]  
+
+<br><br><br>
+
+###.orange[Requiere el uso de estrategias no habituales ya que buscar palabras por letra inicial no es una tarea común e implica un mayor esfuerzo. Además, exige la inhibición de la respuesta incorrecta lo que representa un mayor esfuerzo cognitivo.]
+
+<br><br><br><br>
+
+###.orange[###- **Nombrar todas las palabras que comiencen con una letra particular (p.ej. F, A, S). **]
+
+]]
+
+???
+La FV es medida habitualmente a través de pruebas donde se solicita al sujeto que produzca la mayor cantidad de palabras pertenecientes a una categoría restringida dentro de un tiempo limitado (generalmente 60 segundos). 
+
+---
+class: hide-col2 
+
+---
+
+class: fade-col1
+count: false
+
+---
+layout: false
+background-image: url(https://imgv2-2-f.scribdassets.com/img/document/247896018/original/145716afb1/1597687509?v=1)
+background-position: 70% 40%
+background-size: 50%
+
+# .color-main1[**Materiales**]
+
+## [1. Protocolo](https://github.com/danielesnm/INECO/blob/main/archivos/INECO%20protocolo.pdf) 
+
+## [2. Manual](https://github.com/danielesnm/INECO/blob/main/archivos/manual-ineco-frontal-screening-ifs-para-imprimir_compress.pdf) 
+
+## [3. Hoja con cuadros](https://github.com/danielesnm/INECO/blob/main/archivos/Cuadros.pdf) 
+
 
 ---
 class: bg-main1 
