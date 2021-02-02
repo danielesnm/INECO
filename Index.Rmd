@@ -870,6 +870,45 @@ class: middle bg-main3
 ???
 Test corto utilizado ampliamente en las evaluaciones neuropsicológicas para el estudio de habilidades verbales y de funciones ejecutivas
 ---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/consigna%201.png?raw=true)
+background-position: 50% 95%
+background-size: 47%
+
+## .color-main1[ **Instrucción:**]
+**Lista A**: _“Voy a leer una lista de palabras. Cuando termine, Ud. va a tratar de recordar y decir la mayor cantidad de palabras que pueda. No importa el orden en que las diga. Comencemos”. **Se lee la lista A**. “Ahora le voy a volver a leer la misma lista. Cuando termine, Ud. va a tratar de recordar la mayor cantidad que pueda. Me vuelve a decir todas las palabras que recuerde, incluso las que ya me dijo, como si empezáramos de cero”. Se vuelve a leer la lista A. “Dígame todas las palabras que recuerde”. Se repite tres veces más hasta completar las cinco veces (5 ensayos)._
+
+---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/consigna%202.png?raw=true)
+background-position: 50% 90%
+background-size: 47%
+
+## .color-main1[ **Instrucción:**]
+**Lista B**: _“Ahora le voy a leer una lista totalmente diferente a la que le leí antes. Cuando termine, Ud. va a tratar de recordar todas las palabras que pueda, las palabras solamente de esta lista”._
+
+---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/consigna%203.png?raw=true)
+background-position: 50% 90%
+background-size: 47%
+
+## .color-main1[ **Instrucción:**]
+**Lista A** _“Ahora le voy a pedir que recuerde las palabras de la primera lista que le leí. La que leímos varias veces”._
+
+---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/consigna%204.png?raw=true)
+background-position: 50% 90%
+background-size: 47%
+
+## .color-main1[ **Instrucción:**]
+**A los 20 min. se le dice**: _“le voy a pedir que recuerde las palabras de la primera lista que le leí. La que leímos varias veces_”.
+
+---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/consigna%205.png?raw=true)
+background-position: 50% 50%
+background-size: 60%
+
+## .color-main1[ **Instrucción:**]
+**Lista A** _“Le voy a leer unas palabras, quiero que me diga cuales de esas palabras estaban o no en la primera lista”_
+---
 class: bg-main1 
 
 # .orange[**Referencias complementarias**]
