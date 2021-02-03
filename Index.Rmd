@@ -1,7 +1,7 @@
 ---
-title: ".orange[**Proyecto**]: Validación en población española de la WCPA y la Escala Cognitiva de las Actividades de la Vida Diaria"
-subtitle: "Población sana y con daño cerebral adquirido" 
-author: 
+title: ".orange[**Seminario**] de formación en pruebas neuropsicológicas cognitivo-funcionales"
+subtitle:
+author: Neuropsicologo Daniel Salazar Frías
 institute: "Universidad de Granada"
 output:
   xaringan::moon_reader:
@@ -59,12 +59,26 @@ Los déficits cognitivos generalmente involucran funciones específicas o áreas
 layout: false
 class: middle bg-main1
 
+.font3[.orange[**Las pruebas que revisaremos serán**]]  
+
+.font5[**1. INECO Frontal Screening**]  
+--
+
+.font5[**2. Test de Fluidez verbal**]  
+--
+
+.font5[**3. Test Auditivo-Verbal de Rey**]  	
+
+---
+layout: false
+class: middle bg-main1
+
 .font5[**INECO Frontal Screening**](Torralva, et al., 2009)
 --
 
 #.orange[Objetivo de esta herramienta:]
 
-##1. .green[Detectar disfunción ejecutiva] en pacientes con diversas patologías que afecten los circuitos frontoestriados.  
+##1. .green[Detectar disfunción ejecutiva] en pacientes con diversas patologías que afecten los lóbulos frontales.  
 --
 
 ##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva [(Torralva, Roca, Gleichgerrcht, López & Manes, 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
@@ -121,7 +135,7 @@ class: split-three with-border
 .column.bg-main3[.content[<br>
 #.color-main1[**3. Memoria de trabajo**]  
 
-<br><br><br><br>
+<br>
 
 ###.color-main1[Capacidad para mantener información en la mente con el objeto de completar actividades que requieren el manejo de varia información de manera simultánea.]
 
@@ -240,7 +254,7 @@ _“Mire atentamente lo que estoy haciendo. Ahora Ud. realice lo mismo con su ma
 
 #VIDEO DEMOSTRACIÓN
 ---
-
+layout: false
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/1.png?raw=true)
 background-position: 50% 17%
 background-size: 90%
@@ -820,6 +834,20 @@ class: split-33 with-border
 ]
 ]]
 
+.column[.content.right[![](https://github.com/danielesnm/INECO/blob/main/imagenes/fluidez%20semantica.png?raw=true)]
+]]
+
+
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Test de fluidez verbal**
+]
+]]
+
 .column[.content[# <br>  .color-main1[# **1. Fluidez fonológica**
 ## .orange[**Material**]
 ]
@@ -838,6 +866,18 @@ class: split-33 with-border
 .column[.content.right[![](data:image/png;base64,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)]
 ]]
 
+---
+layout: false
+class: split-33 with-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+# **Test de fluidez verbal**
+]
+]]
+
+.column[.content.right[![](https://github.com/danielesnm/INECO/blob/main/imagenes/fluides%20fonologica.png?raw=true)]
+]]
 
 ---
 class: split´-70 hide-slide-number
@@ -904,7 +944,7 @@ background-size: 47%
 ---
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/consigna%205.png?raw=true)
 background-position: 50% 50%
-background-size: 60%
+background-size: 50%
 
 ## .color-main1[ **Instrucción:**]
 **Lista A** _“Le voy a leer unas palabras, quiero que me diga cuales de esas palabras estaban o no en la primera lista”_
