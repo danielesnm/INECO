@@ -1,8 +1,8 @@
 ---
 title: ".orange[**Seminario**] de formación en pruebas neuropsicológicas cognitivo-funcionales"
 subtitle:
-author: Neuropsicólogo. Daniel Salazar Frías
-institute: "Universidad de Granada"
+author: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria"
+institute: "Centro de Investigación Mente Cerebro y Comportamiento (CIMCYC), Universidad de Granada"
 output:
   xaringan::moon_reader:
      lib_dir: libs
@@ -13,12 +13,15 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
 background-image: url(https://i0.wp.com/gcneuropsychology.com/wp-content/uploads/2019/12/cropped-Neurology-512.png?fit=512%2C512&ssl=1)
 
 
 # .color-main1[**EVALUACIÓN NEUROPSICOLÓGICA**]
 
-## - La neuropsicología aplica el conocimiento de la .orange[**relación entre el cerebro y el comportamiento**] para la evaluación del funcionamiento normal y anormal.
+## - La neuropsicología aplica el conocimiento de la .orange[**relación entre el cerebro y el comportamiento**] para la evaluación del funcionamiento normal y alterado.
 --
 
 <br>  
@@ -78,7 +81,7 @@ class: middle bg-main1
 
 #.orange[Objetivo de esta herramienta:]
 
-##1. .green[Detectar disfunción ejecutiva] en pacientes con diversas patologías que afecten los lóbulos frontales.  
+##1. .green[Detectar disfunción ejecutiva] en pacientes con diversas patologías.  
 --
 
 ##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva [(Torralva, Roca, Gleichgerrcht, López & Manes, 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
@@ -126,7 +129,7 @@ class: split-three with-border
 
 ###.orange[Capacidad para reconocer patrones y relaciones de ideas teóricas o intangibles.]
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ###.orange[###- **Interpretación de refranes**]
 
@@ -135,9 +138,9 @@ class: split-three with-border
 .column.bg-main3[.content[<br>
 #.color-main1[**3. Memoria de trabajo**]  
 
-<br>
+<br><br><br><br>
 
-###.color-main1[Capacidad para mantener información en la mente con el objeto de completar actividades que requieren el manejo de varia información de manera simultánea.]
+###.color-main1[Capacidad para mantener información en la mente con el objetivo de completar actividades que requieren el manejo de varia información de manera simultánea.]
 
 <br>
 
@@ -165,45 +168,6 @@ count: false
 
 class: fade-col1 fade-col2
 count: false
-
----
-layout: false
-background-image: url(https://www.gapsiat.com/wp-content/uploads/2017/12/CEREBRO-e1512121421273.jpg)
-background-position: 50% 50%
-background-size: 75%
-
-???
-**Córtex prefrontal dorsolateral (CPFDL) participa en **: 
-1. La capacidad de formular metas teniendo debidamente en cuenta las consecuencias a largo plazo, para generar múltiples alternativas de respuesta y elegir un comportamiento dirigido a una meta. 
-2. A medida que avanza una secuencia de comportamiento, desempeña un papel en el autocontrol de la idoneidad y corrección del comportamiento y la modificación de los comportamientos cuando cambian las condiciones.
-3. desempeño en tareas que evalúan la MT, fluidez, planificación, flexibilidad mental, iniciación, cambio y abstracción.
-
-- repertorio de respuesta estereotipado o limitado  
-- pérdida fácil del conjunto de tareas, 
-- falta de autocontrol de errores.  
-- incapacidad de organizar una respuesta comportamental ante la presencia de estímulos nuevos o complejos, provocando perseveracion o inflexibilidad (el paciente se quede "atascado en el conjunto"   
-- incapacidad de alternar las conductas, utilizar estrategias apropiadas y organizar la información para adaptarse a los cambios ambientales.
-
-For example, patients with dorsolateral prefrontal cortex injury tend to perform least well on working memory measures and set-shifting tasks that require shifts between dimensions (Rogers,Andrews, Grasby, Brooks, & Robbins, 2000), yet do well on reversal learning and inhibition tasks. The
-opposite pattern can be seen in patients with more ventromedial involvement.
-
-**Córtex prefrontal medial (ventrolateral) participa en:** 
-1. Motivación dirigida la acción. 
-2. Procesos de inhibición, detección y solución de conflictos 
-3. Regulación y esfuerzo atencional. 
-4. Regulación de la agresión y de los estados motivacionales.
-
-- Produce un síndrome neurocomportamental, caracterizado por apatía, pérdida de motivación e interés en su medio ambiente, pérdida de espontaneidad y dificultad para iniciar movimientos y lenguaje, retardo psicomotor; así como incapacidad para concentrar la atención en comportamientos o tareas cognitissa.  
--La capacidad de respuesta disminuida para iniciar o persistir en el comportamiento, sin alcanzar la gravedad del mutismo acinético. 
-
-
-**Córtex orbitofrontal (anterior) participa en**  
-1. regulación de las emociones y en las conductas afectivas y sociales, así como en la toma de decisiones basadas en estados afectivos (sistema límbico), 
-2. toma de decisiones basadas en la estimación del riesgo-beneficio de las mismas.
-
-- El comportamiento desinhibido/impulsivo/socialmente inapropiado como resultado la interrupción la interrupción de los mecanismos inhibitorios y emocionales.
-- Trastornos de la reactividad emocional como: labilidad emocional y reacciones emocionales situacionalmente inapropiadas, insensibilidad a las necesidades de los otros, y actos antisociales, distractibilidad y desinterés por los sucesos actuales
-- Anosmia, amnesia con confabulación y el fracaso en las pruebas de inhibición
 
 ---
 layout: false
@@ -238,7 +202,7 @@ class: split-33 with-border
 ]]
 --
 <br>
-###- Se pide a la persona que realice la serie de Luria, inicialmente copiando al evaluador, y luego repitiendo la serie por sí mismo 6 veces. Pacientes con lesiones en el lóbulo frontal pueden tener dificultades en tareas que requieren .orange[**organización temporal, mantenimiento y ejecución de acciones sucesivas.**]
+###- Se pide a la persona que realice la serie de Luria, inicialmente copiando al evaluador, y luego repitiendo la serie por sí mismo 6 veces. Algunos pacientes pueden tener dificultades en tareas que requieren habilidades como: .orange[**organización temporal, mantenimiento y ejecución de acciones sucesivas.**]
 
 <br>
 
@@ -265,7 +229,7 @@ background-size: 90%
 
 --
 
-## .orange[**¿Que podemos observar?**]
+## .orange[**¿Qué podemos observar?**]
 
 ### - Lentificación general  
 ### - Desautomatización de los movimientos  
@@ -273,7 +237,7 @@ background-size: 90%
 ### - Simplificación de la tarea (dos gestos en lugar de tres) 
 ### - Impulsividad (ecopraxia con rápida autocorrección ante activación de la atención)  
 ### - Respuestas estereotipadas en las praxias dinámicas (posición vertical del puño)  
-### - Perseveranción (repetición inadecuada de los mismos gestos)
+### - Perseveración (repetición inadecuada de los mismos gestos)
 
 ???
 
@@ -313,7 +277,7 @@ class: split-33 with-border
 ]]
 
 ???
-Por ejemplo en la prueba Stroop, en la que el sujeto debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. Esto también ocurre en el caso de instrucciones contradictorias, en las que los sujetos deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los sujetos deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
+Por ejemplo en la prueba Stroop, en la que el participante debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. Esto también ocurre en el caso de instrucciones contradictorias, en las que los participantes deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los participantes deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
 Realiza un bloque de práctica en dónde el administrador golpea la mesa una vez, tres veces consecutivas; y luego dos veces, tres veces más.  
 
 **Instrucción:** 
@@ -332,10 +296,10 @@ background-size: 90%
 
 --
 
-## .orange[**¿Que podemos observar?**]
+## .orange[**¿Qué podemos observar?**]
 
 ### - Dificultad para cambiar a un programa motor diferente, repitiendo incorrectamente los movimientos
-### - Dificultad para dejar de realizar moviemientos, una vez que la tarea a terminado  
+### - Dificultad para dejar de realizar movimientos, una vez que la tarea a terminado  
 ### - Movimientos ecopráxicos (imitación)
 ### - Falta de espontaneidad
 
@@ -364,7 +328,7 @@ class: split-33 with-border
 ]
 --
 <br>
-###- Se administra inmediatamente después del test anterior. La capacidad para .orange[**inhibir una respuesta**] se puede evaluar con el paradigma go-no go, en el que los sujetos deben inhibir un patrón de respuesta previamente establecido (no tocar cuando el examinador toca dos veces.)
+###- Se administra inmediatamente después del test anterior. La capacidad para .orange[**inhibir una respuesta**] se puede evaluar con el paradigma go-no go, en el que los participantes deben inhibir un patrón de respuesta previamente establecido (no tocar cuando el examinador toca dos veces.)
 
 ]]
 
@@ -372,12 +336,12 @@ class: split-33 with-border
 ]]
 
 ???
-Por ejemplo en la prueba Stroop, en la que el sujeto debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. Esto también ocurre en el caso de instrucciones contradictorias, en las que los sujetos deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los sujetos deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
+Por ejemplo en la prueba Stroop, en la que el participante debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. Esto también ocurre en el caso de instrucciones contradictorias, en las que los participantes deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los participantes deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
 
 Realiza un bloque de práctica en dónde el administrador golpea la mesa una vez, tres veces consecutivas; y luego dos veces, tres veces más.  
 
 **Instrucción:** 
-_“Golpee la mesa una vez, cuando yo la golpee una vez”. Para asegurarse que el sujeto ha entendido la consiga golpee una vez la mesa. Repítalo 3 veces. “Ahora no golpee cuando yo golpee dos veces”. Para asegurarse que el sujeto ha entendido la consiga golpee dos veces la mesa.Repítalo 3 veces. Ahora realice la siguiente serie: 1-1-2-1-2-2-2-1-1-2._  
+_“Golpee la mesa una vez, cuando yo la golpee una vez”. Para asegurarse que el participante ha entendido la consiga golpee una vez la mesa. Repítalo 3 veces. “Ahora no golpee cuando yo golpee dos veces”. Para asegurarse que el participante ha entendido la consiga golpee dos veces la mesa.Repítalo 3 veces. Ahora realice la siguiente serie: 1-1-2-1-2-2-2-1-1-2._  
 
 #VIDEO DEMOSTRACION
 ---
@@ -392,9 +356,9 @@ background-size: 90%
 
 --
 
-## .orange[**¿Que podemos observar?**]
+## .orange[**¿Qué podemos observar?**]
 ### 1. Dificultad para cambiar a un programa motor diferente, repitiendo incorrectamente los movimientos. 
-### 2. Dificultad para dejar de realizar moviemientos, una vez que la tarea a terminado.
+### 2. Dificultad para dejar de realizar movimientos, una vez que la tarea a terminado.
 ### 3. Movimientos ecopráxicos (imitación)
 ### 4. Falta de espontaneidad
 <br>
@@ -433,7 +397,7 @@ class: split-33 with-border
 
 .column[.content[# <br><br>  .color-main3[
 # **4. Memoria de trabajo numérica**
-## .orange[**Tarea: digitos hacia atrás**]
+## .orange[**Tarea: dígitos hacia atrás**]
 ]
 <br><br><br>
 ###- Evalúa la .orange[**amplitud de la memoria a corto plazo**] y la eficacia en la utilización de .orange[**la memoria de trabajo**]. Supone un esfuerzo cognitivo mayor, ya que se debe retener en la mente la base de datos original, para poder ir repitiendo los números en orden opuesto al presentado
@@ -462,7 +426,7 @@ _“Voy a decirle algunos dígitos y, cuando yo termine, repítalos de atrás pa
 
 --
 
-## .orange[**¿Que podemos observar?**]
+## .orange[**¿Qué podemos observar?**]
 ### 1. Omisión: falta de un dígito (9-6  .red[omite 2])
 ### 2. Adición: dígitos agregados (9-2-6-4 .red[añade 4]) 
 ### 3. Perseveración: repetición de números (9-.red[2-2-2])
@@ -473,7 +437,7 @@ _“Voy a decirle algunos dígitos y, cuando yo termine, repítalos de atrás pa
 
 ???
 **instruccion**
-Lea los dígitos de a uno por segundo, bajando levemente la voz en el último dígito de la serie. Si el sujeto repite correctamente cualquier de los dos intentos de cada trial, se administra eltrial siguiente. Interrumpa al cabo de puntajes de 0 en ambos intentos de cualquier ítem_ 
+Lea los dígitos de a uno por segundo, bajando levemente la voz en el último dígito de la serie. Si el participante repite correctamente cualquier de los dos intentos de cada trial, se administra eltrial siguiente. Interrumpa al cabo de puntajes de 0 en ambos intentos de cualquier ítem_ 
 
 OMISION:su interpretación considera la longitud de la secuencia numérica: si este tipo de error ocurre en secuencias de dígitos más cortas (cuatro tramos) o más largas (siete u ocho tramos).
 
@@ -484,7 +448,7 @@ PERSEVERACIÓN: Al notar una perseverancia, uno debe observar si las respuestas 
 SUSTITUCIÓN:  difiere de los errores de adicion  porque estos cambian la longitud de la cadena de dígitos. Esto se codifica cuando se proporciona cualquier dígito en lugar de un dígito contenido en el estímulo.
 
 **Calificación**
-La puntuación será el número de digitos en la cadena la que el sujeto pasó cualquiera de las pruebas, máximo 6.
+La puntuación será el número de digitos en la cadena la que el participante pasó cualquiera de las pruebas, máximo 6.
 ---
 layout: false
 class: split-33 with-border
@@ -500,7 +464,7 @@ class: split-33 with-border
 ## .orange[**Tarea: meses hacia atras** ]
 ]
 <br>
-###- Se le pide al sujeto que enumere los meses del año en orden inverso, empezando por Diciembre. Esta tarea evalua la capacidad para .orange[**manipular información de modo activo mientras se realiza una actividad cognitiva**] pero esta vez con una serie que es altamente conocida por todas las personas. 
+###- Se le pide al participante que enumere los meses del año en orden inverso, empezando por Diciembre. Esta tarea evalua la capacidad para .orange[**manipular información de modo activo mientras se realiza una actividad cognitiva**] pero esta vez con una serie que es altamente conocida por todas las personas. 
 
 <br>
 
@@ -526,9 +490,9 @@ _“Diga los meses del año en orden inverso, comenzando por el último mes del 
 
 --
 
-## .orange[**¿Que podemos observar?**]
-### 1. Omisiónes
-### 2. Perseveraciónes
+## .orange[**¿Qué podemos observar?**]
+### 1. Errores de omisión
+### 2. Errores de perseveración
 ### 3. Errores de secuencia
 ### 4. Dificultades para iniciar la tarea
 ### 5. Lentificación general
@@ -545,6 +509,9 @@ _“Diga los meses del año en orden inverso, comenzando por el último mes del 
 ---
 layout: false
 class: split-33 with-border
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/cuadros.png?raw=true)
+background-position: 90% 90%
+background-size: 60%
 
 .column.bg-main3[.content.vmiddle[
 .center[
@@ -569,16 +536,18 @@ class: split-33 with-border
 ]]
 
 ???
-El examinador le presenta al sujeto cuatro cuadrados, los cuales señala siguiendo una secuencia determinada. Se le pide al sujeto que repita la secuencia en orden inverso.  
+El examinador le presenta al participante cuatro cuadrados, los cuales señala siguiendo una secuencia determinada. Se le pide al participante que repita la secuencia en orden inverso.  
 
 **Instrucción:**  
 
-
-
 ---
-background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/6.png?raw=true)
-background-position: 50% 25%
-background-size: 90%
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/cuadros.png?raw=true) 
+background-position: 50% 50%
+background-size: 80%
+---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/6.png?raw=true), url(https://github.com/danielesnm/INECO/blob/main/imagenes/cuadros.png?raw=true)
+background-position: 50% 28%, 90% 70%
+background-size: 90%, 60%
 
 ## .color-main1[ **Instrucción:**]
 _“Voy a señalar los cuadrados en un orden determinado. Quiero que Ud. los señale en orden inverso”. Hágalo despacio. El paciente puede elegir la mano de preferencia. Hay cuatro trials realizando una secuencia de 2, 3, 4 y 5 cuadrados respectivamente._ 
@@ -587,7 +556,7 @@ _“Voy a señalar los cuadrados en un orden determinado. Quiero que Ud. los se�
 
 --
 
-## .orange[**¿Que podemos observar?**]
+## .orange[**¿Qué podemos observar?**]
 
 ### 1. Omisión
 ### 2. Adición
@@ -653,9 +622,9 @@ _“Ahora le voy a leer un refrán, y querría que me explique el significado de
 
 --
 
-## .orange[**¿Que podemos observar?**]
-### 1. Dificultad para establecer el vínculo semántico para determinar el significado de cada uno de los elementos (dificultades en la comprension linguistica, semántica, sintactica).
-### 2. Dificultades para descifrar el significado del mensaje verbal, adhiriendose a los aspectos concretos de cada uno de sus elementos.
+## .orange[**¿Qué podemos observar?**]
+### 1. Dificultad para establecer el vínculo semántico para determinar el significado de cada uno de los elementos (dificultades en la comprensión lingüistica, semántica, sintáctica).
+### 2. Dificultades para descifrar el significado del mensaje verbal, adhiriéndose a los aspectos concretos de cada uno de sus elementos.
 
 <br>
 
@@ -693,7 +662,7 @@ class: split-33 with-border
 ]]
 
 ???
-La primera parte consta de tres oraciones las cuales son leídas al sujeto, se le pide que las complete, lo más rápido posible, de forma tal que la oración quede correcta. La segunda parte consta también de tres oraciones a las cuales le falta la última palabra, pero en esta parte el sujeto debe completarla con una palabra que sea sintácticamente correcta, pero que no tenga relación con el significado de la oración
+La primera parte consta de tres oraciones las cuales son leídas al participante, se le pide que las complete, lo más rápido posible, de forma tal que la oración quede correcta. La segunda parte consta también de tres oraciones a las cuales le falta la última palabra, pero en esta parte el participante debe completarla con una palabra que sea sintácticamente correcta, pero que no tenga relación con el significado de la oración
 #VIDEO DEMOSTRACION
 ---
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/8.png?raw=true)
@@ -706,7 +675,7 @@ background-size: 90%
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>  
 
 
-## .orange[**¿Que podemos observar?**]
+## .orange[**¿Qué podemos observar?**]
 ### 1. Dificultades para iniciar la respuesta verbal.
 ### 2. Dificultades para inhibir la respuesta verbal.
 
@@ -752,7 +721,7 @@ background-size: cover
 .column.slide-in-left[
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 .sliderbox.vmiddle.shade_main.center[
-.font5[Procesos y tareas]]]
+.font5[Tareas]]]
 .column[
 ]
 
@@ -786,7 +755,7 @@ class: split-two with-border
 ]]
 
 ???
-La FV es medida habitualmente a través de pruebas donde se solicita al sujeto que produzca la mayor cantidad de palabras pertenecientes a una categoría restringida dentro de un tiempo limitado (generalmente 60 segundos). 
+La FV es medida habitualmente a través de pruebas donde se solicita al participante que produzca la mayor cantidad de palabras pertenecientes a una categoría restringida dentro de un tiempo limitado (generalmente 60 segundos). 
 
 ---
 class: hide-col2 
@@ -816,7 +785,7 @@ class: split-33 with-border
 
 
 ## .orange[**Instrucción**]
-###Por favor, dígame el mayor número posible de animales durante un minuto.No se pueden decir nombres propios (nombres de personas ni de ciudades).
+###Por favor, dígame el mayor número posible de animales durante un minuto.
 
 
 ]]
