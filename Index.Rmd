@@ -15,50 +15,8 @@ output:
 ---
 ```{r xaringan-panelset, echo=FALSE}
 xaringanExtra::use_panelset()
+xaringanExtra::use_tile_view()
 ```
-background-image: url(https://i0.wp.com/gcneuropsychology.com/wp-content/uploads/2019/12/cropped-Neurology-512.png?fit=512%2C512&ssl=1)
-
-
-# .color-main1[**EVALUACIÓN NEUROPSICOLÓGICA**]
-
-## - La neuropsicología aplica el conocimiento de la .orange[**relación entre el cerebro y el comportamiento**] para la evaluación del funcionamiento normal y alterado.
---
-
-<br>  
-## - La información recopilada a través de la evaluación, se utiliza para .orange[**determinar**] si un individuo con deterioro cerebral funciona de una manera .orange[**clínica y significativamente diferente**] a un individuo sin deterioro.
---
-
-<br>  
-## - La integridad funcional de varias habilidades cognitivas, psicosociales y conductuales se evalúan a través de la .orange[**observación y medición**] de diferentes parámetros psicológicos y conductuales [(Strauss, Sherman, & Spreen, 2006)](https://psycnet.apa.org/record/2006-04736-000).  
-
-
-???
-
-**¿Qué es la neuropsiologia?**
-Es un campo de las neurociencias que se enfocan al estudio de la relación entre las estructuras del cerebro y el comportamiento humano, tanto en personas sanas como en personas que sufren daños cerebrales.
-
-**¿Que es la evaluacion neuropsicologica?**
-
----
-class: middle bg-main1
-
-.font5[.orange[**Funciones Ejecutivas**]]  
-
-###- ...se refiere al resultado final de una .green[**secuencia coordinada de procesos cognitivos**] destinados a lograr un objetivo particular de manera flexible permitiendo a las personas responder adaptativamente a su entorno.    
---
-
-###- Las habilidades comúnmente asociadas con el funcionamiento ejecutivo incluyen: .green[**iniciación, planificación, organización, memoria de trabajo, atención, flexibilidad mental, inhibición, regulación emocional y auto-monitoreo.**]  [(Kreutzer, DeLuca, & Caplan, 2011)](https://link.springer.com/referencework/10.1007/978-0-387-79948-3). 
-
-???
-Difieren de las funciones cognitivas de varias maneras. 
-Preguntas sobre las funciones ejecutivas (lo hará y, si es así, cómo y cuándo).
-Preguntas sobre las funciones cognitivas generalmente se expresan en términos de qué o quién (por ejemplo, ¿cuánto sabes?, ¿qué puedes hacer?). 
-
-Cuando las funciones ejecutivas se ven afectadas, aunque sólo sea parcialmente, la persona ya no puede ser capaz de autoasistencia satisfactoria, de realizar un trabajo remunerado o útil independiente, o de mantener relaciones sociales normales, independientemente de lo bien conservadas que estén las capacidades cognitivas, o lo alto que sean las puntuaciones de la persona en las pruebas de habilidades
-
-Los déficits cognitivos generalmente involucran funciones específicas o áreas funcionales; las deficiencias en funciones ejecutivas tienden a aparecer globalmente, afectando todos los aspectos del comportamiento. Además, los trastornos ejecutivos pueden afectar el funcionamiento cognitivo directamente en estrategias comprometidas para acercarse, planificar o llevar a cabo tareas cognitivas, o en un monitoreo defectuoso del desempeño
-
----
 layout: false
 class: middle bg-main1
 
@@ -87,6 +45,14 @@ class: middle bg-main1
 ##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva [(Torralva, Roca, Gleichgerrcht, López & Manes, 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
 
 ???
+- ...se refiere al resultado final de una .green[**secuencia coordinada de procesos cognitivos**] destinados a lograr un objetivo particular de manera flexible permitiendo a las personas responder adaptativamente a su entorno.    
+
+- Las habilidades comúnmente asociadas con el funcionamiento ejecutivo incluyen: **iniciación, planificación, organización, memoria de trabajo, atención, flexibilidad mental, inhibición, regulación emocional y auto-monitoreo.**] 
+
+
+Cuando las funciones ejecutivas se ven afectadas, aunque sólo sea parcialmente, la persona ya no puede ser capaz de autoasistencia satisfactoria, de realizar un trabajo remunerado o útil independiente, o de mantener relaciones sociales normales, independientemente de lo bien conservadas que estén las capacidades cognitivas, o lo alto que sean las puntuaciones de la persona en las pruebas de habilidades
+
+Los déficits cognitivos generalmente involucran funciones específicas o áreas funcionales; las deficiencias en funciones ejecutivas tienden a aparecer globalmente, afectando todos los aspectos del comportamiento. Además, los trastornos ejecutivos pueden afectar el funcionamiento cognitivo directamente en estrategias comprometidas para acercarse, planificar o llevar a cabo tareas cognitivas, o en un monitoreo defectuoso del desempeño
 El diseño del IFS fue primariamente concebido, representando tres grupos de tareas cognitivas,
 como indicaremos a continuación:
 
@@ -616,11 +582,22 @@ background-position: 50% 32%
 background-size: 90%
 
 ## .color-main1[ **Instrucción:**]
-_“Ahora le voy a leer un refrán, y querría que me explique el significado del mismo”. Se lee el primer refrán y solo en la primera ocasión, si el paciente presenta una explicación concreta del mismo, se le pide que brinde una explicación más allá del significado concreto. Ejemplo: “Perro que ladra no muerde”; si el paciente dice: “Cuando el perro está atado no puede morder”, se le dice: “Más allá del perro, ¿cuál sería el significado de este refrán?”._
+_“Ahora le voy a leer un refrán, y querría que me explique el significado del mismo”._
 
-<br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br>
 
---
+### - Se lee el primer refrán y solo en la primera ocasión, si el paciente presenta una explicación concreta del mismo, se le pide que brinde una explicación más allá del significado concreto.  
+### - Ejemplo: “Perro que ladra no muerde”; si el paciente dice: “Cuando el perro está atado no puede morder”, se le dice: “Más allá del perro, ¿cuál sería el significado de este refrán?”.
+
+---
+background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/7.png?raw=true)
+background-position: 50% 32%
+background-size: 90%
+
+## .color-main1[ **Instrucción:**]
+_“Ahora le voy a leer un refrán, y querría que me explique el significado del mismo”._
+
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## .orange[**¿Qué podemos observar?**]
 ### 1. Dificultad para establecer el vínculo semántico para determinar el significado de cada uno de los elementos (dificultades en la comprensión lingüistica, semántica, sintáctica).
@@ -649,9 +626,14 @@ class: split-33 with-border
 # **8. Control inhibitorio verbal**
 ## .orange[**Tarea: test de Hayling modificado**]
 ]
---
+
+
+###- Consiste en presentar 5 oraciones a las cuales le falta la última palabra y las cuales están construidas de tal forma que la opción correcta está fuertemente sugerida por el contexto de la oración.
 <br>
-###- Consiste de 6 oraciones a las cuales le falta la última palabra. Están construidas de tal forma que la opción correcta está fuertemente sugerida por el contexto de la oración. Al presentar una estructura idéntica durante 2 fases, es  capaz de evaluar de manera eficiente dos componentes de la función ejecutiva .orange[**(iniciación e inhibición)**] en relación con una forma verbal simbólica única.
+###- **La primera parte** consta de 2 oraciones las cuales son leídas al participante, se le pide que las complete lo más rápido posible, de tal forma que la oración quede correcta.  
+<br>
+###- **La segunda parte** consta de 3 oraciones a las cuales le falta la última palabra. Ahora el participante debe completarla con una palabra que no tenga relación con el significado de la oración.
+
 
 
 <br>
@@ -917,6 +899,11 @@ background-size: 50%
 
 ## .color-main1[ **Instrucción:**]
 **Lista A** _“Le voy a leer unas palabras, quiero que me diga cuales de esas palabras estaban o no en la primera lista”_
+
+---
+background-image: url(https://www.cajasietecontunegocio.com/images/recursos-humanos/10-preguntas.png)
+background-position: 50% 50%
+background-size: 80%
 ---
 class: bg-main1 
 
@@ -935,12 +922,4 @@ class: bg-main1
 - [Strauss, E., Sherman, E. M. S., & Spreen, O. (2006). A compendium of neuropsychological tests: Administration, norms, and commentary (3rd ed.). Oxford University Press.](https://psycnet.apa.org/record/2006-04736-000).
 
 - [Stuss, D. T., & Alexander, M. P. (2000). Executive functions and the frontal lobes: a conceptual view. Psychological research, 63(3-4), 289–298.](https://pubmed.ncbi.nlm.nih.gov/11004882/)
-
----
-
-class: center, middle
-
-# Gracias!
-
-Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan) and [**kunoichi**](https://github.com/emitanaka/ninja-theme) a xaringan theme for the R-Ladies. 
 
