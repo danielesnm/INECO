@@ -20,21 +20,23 @@ xaringanExtra::use_tile_view()
 layout: false
 class: middle bg-main1
 
-.font3[.orange[**Las pruebas que revisaremos serán**]]  
+.font4[.orange[**Las pruebas que revisaremos serán**]]
+____
 
-.font5[**1. INECO Frontal Screening**]  
---
+.font3[**1. INECO Frontal Screening**]  
 
-.font5[**2. Test de Fluidez verbal**]  
---
 
-.font5[**3. Test Auditivo-Verbal de Rey**]  	
+.font3[**2. Test de Fluidez verbal**]  
+
+
+.font3[**3. Test Auditivo-Verbal de Rey**]  	
 
 ---
 layout: false
 class: middle bg-main1
 
 .font5[**INECO Frontal Screening**](Torralva, et al., 2009)
+____
 --
 
 #.orange[Objetivo de esta herramienta:]
@@ -45,16 +47,11 @@ class: middle bg-main1
 ##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva [(Torralva, Roca, Gleichgerrcht, López & Manes, 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
 
 ???
-- ...se refiere al resultado final de una .green[**secuencia coordinada de procesos cognitivos**] destinados a lograr un objetivo particular de manera flexible permitiendo a las personas responder adaptativamente a su entorno.    
-
-- Las habilidades comúnmente asociadas con el funcionamiento ejecutivo incluyen: **iniciación, planificación, organización, memoria de trabajo, atención, flexibilidad mental, inhibición, regulación emocional y auto-monitoreo.**] 
-
-
 Cuando las funciones ejecutivas se ven afectadas, aunque sólo sea parcialmente, la persona ya no puede ser capaz de autoasistencia satisfactoria, de realizar un trabajo remunerado o útil independiente, o de mantener relaciones sociales normales, independientemente de lo bien conservadas que estén las capacidades cognitivas, o lo alto que sean las puntuaciones de la persona en las pruebas de habilidades
 
 Los déficits cognitivos generalmente involucran funciones específicas o áreas funcionales; las deficiencias en funciones ejecutivas tienden a aparecer globalmente, afectando todos los aspectos del comportamiento. Además, los trastornos ejecutivos pueden afectar el funcionamiento cognitivo directamente en estrategias comprometidas para acercarse, planificar o llevar a cabo tareas cognitivas, o en un monitoreo defectuoso del desempeño
-El diseño del IFS fue primariamente concebido, representando tres grupos de tareas cognitivas,
-como indicaremos a continuación:
+
+El diseño del IFS fue primariamente concebido, representando tres grupos de procesos cognitivas, como indicaremos a continuación:
 
 ---
 class: split´-70 hide-slide-number
@@ -178,11 +175,7 @@ class: split-33 with-border
 .column[.content.right[![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQROjuUDYq31Xv_R89zMmcSKwD8Xr9ZDp_yzA&usqp=CAU)]
 ]]
 
-???
-**Instrucción:**
-_“Mire atentamente lo que estoy haciendo. Ahora Ud. realice lo mismo con su mano derecha, primero conmigo, y luego Ud. solo”. Repetir la serie 3 veces con el paciente y luego diga “Ahora realícelo Ud. solo”._  
 
-#VIDEO DEMOSTRACIÓN
 ---
 layout: false
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/1.png?raw=true)
@@ -252,6 +245,9 @@ _“Golpee la mesa dos veces cuando yo lo golpee 1 vez. Realizar un bloque de pr
 VIDEO DEMOSTRACION
 ---
 
+<iframe width="810" height="565"
+<iframe width="1127" height="494" src="https://www.youtube.com/embed/8PSZYWhc65k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/2.png?raw=true)
 background-position: 50% 17%
 background-size: 90%
