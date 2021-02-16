@@ -37,20 +37,14 @@ class: middle bg-main1
 
 .font5[**INECO Frontal Screening**](Torralva, et al., 2009)
 ____
---
 
 #.orange[Objetivo de esta herramienta:]
 
 ##1. .green[Detectar disfunción ejecutiva] en pacientes con diversas patologías.  
---
 
 ##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva [(Torralva, Roca, Gleichgerrcht, López & Manes, 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
 
 ???
-Cuando las funciones ejecutivas se ven afectadas, aunque sólo sea parcialmente, la persona ya no puede ser capaz de autoasistencia satisfactoria, de realizar un trabajo remunerado o útil independiente, o de mantener relaciones sociales normales, independientemente de lo bien conservadas que estén las capacidades cognitivas, o lo alto que sean las puntuaciones de la persona en las pruebas de habilidades
-
-Los déficits cognitivos generalmente involucran funciones específicas o áreas funcionales; las deficiencias en funciones ejecutivas tienden a aparecer globalmente, afectando todos los aspectos del comportamiento. Además, los trastornos ejecutivos pueden afectar el funcionamiento cognitivo directamente en estrategias comprometidas para acercarse, planificar o llevar a cabo tareas cognitivas, o en un monitoreo defectuoso del desempeño
-
 El diseño del IFS fue primariamente concebido, representando tres grupos de procesos cognitivas, como indicaremos a continuación:
 
 ---
@@ -112,11 +106,6 @@ class: split-three with-border
 ###- **Meses hacia atrás**
 ###- **Test de Corsi modificado**]
 ]]
-
-???
-No todos los estímulos requieren una respuesta, y a veces una respuesta puede interferir con el comportamiento orientado a la meta. La inhibición de respuesta defectuosa se define como respuesta cuando no se requiere respuesta de esa parte del cuerpo. Se puede ver en una variedad de partes del cuerpo y también podría ser direccional y tal vez hemispacial.
-
-Según Lezak et al. (2004), las aplicaciones prácticas de la abstracción impregnan algunas capacidades funcionales muy importantes, incluyendo: la capacidad de generalizar acerca de las personas, situaciones y eventos; la formación de conceptos; el uso de categorías, y aplicar reglas de procedimiento y principios generales (por ejemplo, códigos de conducta, reglas gramaticales)
 
 ---
 
@@ -236,7 +225,6 @@ class: split-33 with-border
 ]]
 
 ???
-Por ejemplo en la prueba Stroop, en la que el participante debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. Esto también ocurre en el caso de instrucciones contradictorias, en las que los participantes deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los participantes deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
 Realiza un bloque de práctica en dónde el administrador golpea la mesa una vez, tres veces consecutivas; y luego dos veces, tres veces más.  
 
 **Instrucción:** 
@@ -297,15 +285,9 @@ class: split-33 with-border
 .column[.content.right[![](https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/f4/58/a4/f458a471-97aa-1809-51b8-4a78887b54dd/source/256x256bb.jpg)]
 ]]
 
-???
-Por ejemplo en la prueba Stroop, en la que el participante debe nombrar los colores de las palabras mientras inhibe la tendencia natural a leer las palabras. Esto también ocurre en el caso de instrucciones contradictorias, en las que los participantes deben proporcionar una respuesta opuesta a la señal alterna del examinador, por ejemplo, tocando una vez cuando el examinador toca dos veces.Por lo tanto, los participantes deben obedecer órdenes verbales y abstenerse de seguir lo que ven.
-
-Realiza un bloque de práctica en dónde el administrador golpea la mesa una vez, tres veces consecutivas; y luego dos veces, tres veces más.  
-
-**Instrucción:** 
-_“Golpee la mesa una vez, cuando yo la golpee una vez”. Para asegurarse que el participante ha entendido la consiga golpee una vez la mesa. Repítalo 3 veces. “Ahora no golpee cuando yo golpee dos veces”. Para asegurarse que el participante ha entendido la consiga golpee dos veces la mesa.Repítalo 3 veces. Ahora realice la siguiente serie: 1-1-2-1-2-2-2-1-1-2._  
-
-#VIDEO DEMOSTRACION
+---
+<iframe width="810" height="565"
+<iframe width="1127" height="494" src="https://www.youtube.com/embed/_3FYHEh4Tko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 layout: false
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/3.png?raw=true)
@@ -333,19 +315,6 @@ La retención de una respuesta puede ser difícil para los pacientes con daño e
 - Uno o dos errores (2)
 - Más de dos errores (1)
 - Golpea como el examinador al menos cuatro veces consecutivas (0)
-
----
-
-class: split´-70 hide-slide-number
-background-image: url(https://www.duffthepsych.com/wp-content/uploads/2016/12/AdobeStock_138803523-1200x550.jpeg)
-background-size: cover
-
-.column.slide-in-left[
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-.sliderbox.vmiddle.shade_main.center[
-.font5[Práctica]]]
-.column[
-]
 
 ---
 layout: false
@@ -533,17 +502,6 @@ _“Voy a señalar los cuadrados en un orden determinado. Quiero que Ud. los se�
 ### La puntuación es el número de secuencias completadas, máximo 4
 
 ---
-class: split´-70 hide-slide-number
-background-image: url(https://www.duffthepsych.com/wp-content/uploads/2016/12/AdobeStock_138803523-1200x550.jpeg)
-background-size: cover
-
-.column.slide-in-left[
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-.sliderbox.vmiddle.shade_main.center[
-.font5[Práctica]]]
-.column[
-]
----
 layout: false
 class: split-33 with-thick-border
 
@@ -582,31 +540,31 @@ _“Ahora le voy a leer un refrán, y querría que me explique el significado de
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-### - Se lee el primer refrán y solo en la primera ocasión, si el paciente presenta una explicación concreta del mismo, se le pide que brinde una explicación más allá del significado concreto.  
+### - Se lee el primer refrán y **solo en la primera ocasión**, si el paciente presenta una explicación concreta del mismo, se le pide que brinde una explicación más allá del significado concreto.  
+
 ### - Ejemplo: “Perro que ladra no muerde”; si el paciente dice: “Cuando el perro está atado no puede morder”, se le dice: “Más allá del perro, ¿cuál sería el significado de este refrán?”.
-
 ---
-background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/7.png?raw=true)
-background-position: 50% 32%
-background-size: 90%
-
-## .color-main1[ **Instrucción:**]
-_“Ahora le voy a leer un refrán, y querría que me explique el significado del mismo”._
-
-<br><br><br><br><br><br><br><br><br><br><br>
-
-## .orange[**¿Qué podemos observar?**]
-### 1. Dificultad para establecer el vínculo semántico para determinar el significado de cada uno de los elementos (dificultades en la comprensión lingüistica, semántica, sintáctica).
-### 2. Dificultades para descifrar el significado del mensaje verbal, adhiriéndose a los aspectos concretos de cada uno de sus elementos.
-
-<br>
+## .color-main1[ **Ejemplos:**]
 
 
-???
-**Calificación**
-- Se otorga 1 punto si brinda una explicación adecuada del refrán. 
-- Se otorga 0.5 si brinda un ejemplo correcto. 
-- De lo contrario es de 0.
+###**- Perro que ladra, no muerde**
+>### Un perro muy educado (**0 puntos**)
+>### Un perro ladra a una persona, pero no lo muerde (**1/2 punto**)
+>### Los que hablan mucho, suelen hacer poco (**1 punto**)
+
+--
+
+###**- A mal tiempo, buena cara**
+>### A mal tiempo, va a llover  (**0 puntos**)
+>### A la persona le gusta el tiempo de lluvia (**1/2 punto**)
+>### Tomar una actitud positiva frente a las adversidades (**1 punto**)
+
+--
+
+###**- En casa de herrero, cuchillo de palo**
+>### El herrero tiene un cuchillo en su casa (**0 puntos**)
+>### El cuchillo del herrero no tiene filo (**1/2 punto**)
+>### Carecer de algo, cuando por tu profesión u oficio no deberia faltarte (**1 punto**)
 
 ---
 layout: false
@@ -626,7 +584,7 @@ class: split-33 with-border
 
 ###- Consiste en presentar 5 oraciones a las cuales le falta la última palabra y las cuales están construidas de tal forma que la opción correcta está fuertemente sugerida por el contexto de la oración.
 <br>
-###- **La primera parte** consta de 2 oraciones las cuales son leídas al participante, se le pide que las complete lo más rápido posible, de tal forma que la oración quede correcta.  
+###- **La primera parte** consta de 2 oraciones. El participante las tiene que completar lo más rápido posible, de tal forma que la oración quede correcta.  
 <br>
 ###- **La segunda parte** consta de 3 oraciones a las cuales le falta la última palabra. Ahora el participante debe completarla con una palabra que no tenga relación con el significado de la oración.
 
@@ -641,7 +599,6 @@ class: split-33 with-border
 
 ???
 La primera parte consta de tres oraciones las cuales son leídas al participante, se le pide que las complete, lo más rápido posible, de forma tal que la oración quede correcta. La segunda parte consta también de tres oraciones a las cuales le falta la última palabra, pero en esta parte el participante debe completarla con una palabra que sea sintácticamente correcta, pero que no tenga relación con el significado de la oración
-#VIDEO DEMOSTRACION
 ---
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/8.png?raw=true)
 background-position: 50% 23%
@@ -653,9 +610,13 @@ background-size: 90%
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>  
 
 
-## .orange[**¿Qué podemos observar?**]
-### 1. Dificultades para iniciar la respuesta verbal.
-### 2. Dificultades para inhibir la respuesta verbal.
+## .orange[**Ejemplos**]
+**Juan compró caramelos en el…** …coche (2 puntos), panadería (1 punto), supermercado (0 puntos)
+
+**Ojo por ojo y diente por…** …zapato (2 puntos), boca (1 punto), diente (0 puntos)
+
+**Lave la ropa con agua y…** …cuchara (2 puntos), secadora (1 punto), jabón (0 puntos)
+
 
 <br>
 
@@ -680,14 +641,11 @@ layout: false
 class: middle bg-main2
 
 .font5[**Test de Fluidez verbal**]	
-
-
-
---
+____
 
 #.orange[Objetivo de esta herramienta:]
 
-##1. Tarea de producción verbal que aporta información sobre la capacidad de almacenamiento, la habilidad para recuperar información, organización del pensamiento y evaluación de estrategias usadas en la .green[**búsqueda de las palabras**]. Implica también la habilidad de atención sostenida y control inhibitorio.
+##1. Tarea de producción verbal que aporta información sobre la capacidad de .green[**almacenamiento, la habilidad para recuperar información, organización del pensamiento**] y evaluación de estrategias usadas en la búsqueda de las palabras. Implica también la habilidad de atención sostenida y control inhibitorio.
 
 ???
 Test corto utilizado ampliamente en las evaluaciones neuropsicológicas para el estudio de habilidades verbales y de funciones ejecutivas
@@ -827,22 +785,11 @@ class: split-33 with-border
 ]]
 
 ---
-class: split´-70 hide-slide-number
-background-image: url(https://www.duffthepsych.com/wp-content/uploads/2016/12/AdobeStock_138803523-1200x550.jpeg)
-background-size: cover
-
-.column.slide-in-left[
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-.sliderbox.vmiddle.shade_main.center[
-.font5[Práctica]]]
-.column[
-]
----
 layout: false
 class: middle bg-main3
 
 .font5[**Test Auditivo-Verbal de Rey**]	
-
+____
 
 
 --
