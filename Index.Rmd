@@ -1,8 +1,8 @@
 ---
 title: ".orange[**Seminario**] de formación en pruebas neuropsicológicas cognitivo-funcionales"
 subtitle:
-author: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria"
-institute: "Centro de Investigación Mente Cerebro y Comportamiento (CIMCYC), Universidad de Granada"
+author: "Grupo de Neurociencias Cognitiva"
+institute: "Laboratorio de Neuropsicología y Actividades de la Vida Diaria, Universidad de Granada"
 output:
   xaringan::moon_reader:
      lib_dir: libs
