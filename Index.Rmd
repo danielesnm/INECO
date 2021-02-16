@@ -35,14 +35,14 @@ ____
 layout: false
 class: middle bg-main1
 
-.font5[**INECO Frontal Screening**](Torralva, et al., 2009)
+.font5[**INECO Frontal Screening**][(Torralva, et al., 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
 ____
 
 #.orange[Objetivo de esta herramienta:]
 
 ##1. .green[Detectar disfunción ejecutiva] en pacientes con diversas patologías.  
 
-##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva [(Torralva, Roca, Gleichgerrcht, López & Manes, 2009).](https://pubmed.ncbi.nlm.nih.gov/19635178/)
+##2. Brindar a los profesionales de la salud un instrumento que sea .green[sensible y especifico], y a su vez corto y de fácil administración para determinar la disfunción ejecutiva. 
 
 ???
 El diseño del IFS fue primariamente concebido, representando tres grupos de procesos cognitivas, como indicaremos a continuación:
@@ -63,14 +63,12 @@ background-size: cover
 layout: true
 class: split-three with-border
 
-.column.bg-main1[.content[
+
+.column.bg-main1[.content[<br><br><br>
+
 # .color-main4[**1. Inhibición de respuestas y cambio de sets**]
 
-<br>
-
-### .color-main4[Capacidad para detener una conducta en un momento dado y para cambiar rápidamente entre diferentes conjuntos de respuestas de manera verbal y motora.]
-
-<br>
+<br><br>
 .color-main4[
 ###- **Serie motora de Luria**
 ###- **Instrucciones conflictivas**
@@ -78,28 +76,19 @@ class: split-three with-border
 ###- **Test de Hayling modificado**]
 ]]
 
-.column.bg-main2[.content[<br>
+.column.bg-main2[.content[<br><br><br><br>
 
 #.orange[**2. Abstracción**]  
 
-<br><br><br><br>
-
-###.orange[Capacidad para reconocer patrones y relaciones de ideas teóricas o intangibles.]
-
-<br><br><br><br><br>
-
+<br><br><br><br><br><br><br>
 ###.orange[###- **Interpretación de refranes**]
 
 ]]
 
-.column.bg-main3[.content[<br>
+.column.bg-main3[.content[<br><br><br><br>
 #.color-main1[**3. Memoria de trabajo**]  
 
-<br><br><br><br>
-
-###.color-main1[Capacidad para mantener información en la mente con el objetivo de completar actividades que requieren el manejo de varia información de manera simultánea.]
-
-<br>
+<br><br><br><br><br><br>
 
 .color-main1[
 ###- **Dígitos hacia atrás**
@@ -107,6 +96,10 @@ class: split-three with-border
 ###- **Test de Corsi modificado**]
 ]]
 
+???
+Capacidad para detener una conducta en un momento dado y para cambiar rápidamente entre diferentes conjuntos de respuestas de manera verbal y motora.
+Capacidad para reconocer patrones y relaciones de ideas teóricas o intangibles.
+Capacidad para mantener información en la mente con el objetivo de completar actividades que requieren el manejo de varia información de manera simultánea.
 ---
 
 class: hide-col2 hide-col3
@@ -154,17 +147,16 @@ class: split-33 with-border
 ]]
 --
 <br>
-###- Se pide a la persona que realice la serie de Luria, inicialmente copiando al evaluador, y luego repitiendo la serie por sí mismo 6 veces. Algunos pacientes pueden tener dificultades en tareas que requieren habilidades como: .orange[**organización temporal, mantenimiento y ejecución de acciones sucesivas.**]
-
+###- Se pide a la persona que realice la serie de Luria, inicialmente copiando al evaluador, y luego repitiendo la serie por sí mismo 6 veces. 
 <br>
-
-
 ]]
 
 .column[.content.right[![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQROjuUDYq31Xv_R89zMmcSKwD8Xr9ZDp_yzA&usqp=CAU)]
 ]]
 
-
+---
+<iframe width="810" height="565"
+<iframe width="1189" height="492" src="https://www.youtube.com/embed/YqCLEK0gomY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 layout: false
 background-image: url(https://github.com/danielesnm/INECO/blob/main/imagenes/1.png?raw=true)
@@ -183,8 +175,7 @@ background-size: 90%
 ### - Desautomatización de los movimientos  
 ### - Falta de espontaneidad  
 ### - Simplificación de la tarea (dos gestos en lugar de tres) 
-### - Impulsividad (ecopraxia con rápida autocorrección ante activación de la atención)  
-### - Respuestas estereotipadas en las praxias dinámicas (posición vertical del puño)  
+### - Impulsividad
 ### - Perseveración (repetición inadecuada de los mismos gestos)
 
 ???
@@ -249,7 +240,6 @@ background-size: 90%
 ## .orange[**¿Qué podemos observar?**]
 
 ### - Dificultad para cambiar a un programa motor diferente, repitiendo incorrectamente los movimientos
-### - Dificultad para dejar de realizar movimientos, una vez que la tarea a terminado  
 ### - Movimientos ecopráxicos (imitación)
 ### - Falta de espontaneidad
 
@@ -278,7 +268,7 @@ class: split-33 with-border
 ]
 --
 <br>
-###- Se administra inmediatamente después del test anterior. La capacidad para .orange[**inhibir una respuesta**] se puede evaluar con el paradigma go-no go, en el que los participantes deben inhibir un patrón de respuesta previamente establecido (no tocar cuando el examinador toca dos veces.)
+###- Se administra inmediatamente después del test anterior. Los participantes deben .orange[**inhibir un patrón de respuesta**] previamente establecido (no golpear cuando el examinador golpea dos veces.)
 
 ]]
 
@@ -331,7 +321,7 @@ class: split-33 with-border
 ## .orange[**Tarea: dígitos hacia atrás**]
 ]
 <br><br><br>
-###- Evalúa la .orange[**amplitud de la memoria a corto plazo**] y la eficacia en la utilización de .orange[**la memoria de trabajo**]. Supone un esfuerzo cognitivo mayor, ya que se debe retener en la mente la base de datos original, para poder ir repitiendo los números en orden opuesto al presentado
+###- Evalúa la .orange[**amplitud de la memoria a corto plazo**] y la eficacia en la utilización de .orange[**la memoria de trabajo**]. El participante debe retener números en un orden, para después repetirlos en orden opuesto al presentado
 
 
 <br>
