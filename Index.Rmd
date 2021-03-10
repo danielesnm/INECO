@@ -17,6 +17,11 @@ output:
 xaringanExtra::use_panelset()
 xaringanExtra::use_tile_view()
 ```
+
+```{r xaringan-scribble, echo=FALSE}
+xaringanExtra::use_scribble()
+```
+
 layout: false
 class: middle bg-main1
 
